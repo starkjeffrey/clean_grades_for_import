@@ -1,0 +1,1972 @@
+
+Triaging files in data/interim/...
+  -> Moving 7_August_2023_(B)_Final_Grades_Done_EHSS_01_Final_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_EHSS_01_PRO_2023T3E_Grades_Grades.csv to non-consolidated.
+  -> Skipping IFL_July_2022_term_A_EHSS_5_final_grades_July_2022_FINAL_Grades.csv (has 11 columns).
+  -> Skipping 03_April_2024_Final_Grades_A_EHSS_08B_COMP_240403E_T2AE_Grades_Grades.csv (has 12 columns).
+  -> Moving 6_May_2024_B_term_Final_Grades_EHSS_11_GREAT_240506E_T2BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 28_June_2021_Grades_copy_EHSS_07_final_28_06_21.csv to consolidated.
+  -> Moving 16_January_2023_A_Term_Final_Grades_EHSS_10_R_2023T1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_Done_EHSS_9_Final_Grades.csv to non-consolidated.
+  -> Moving 03_April_2024_Final_Grades_A_IEAP_1G_240403E_T2AE_Grades_Grades.csv to non-consolidated.
+  -> Skipping 17_Feb_2023_B_term_Final_Grades_IEAP_4_17_Feb_2023_Final_Grades_IEAP_4.csv (has 19 columns).
+  -> Moving 16_January_2023_A_Term_Final_Grades_IEAP_2G_2023T1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_Done_EHSS_7B_Final_Grades.csv to non-consolidated.
+  -> Moving 7_August_2023_(B)_Final_Grades_Done_GESL_01_Final_Grades_7_Aug_2023.csv to non-consolidated.
+  -> Moving IFL_July_2022_term_A_IEAP_BG_2022T1T1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 7_August_2023_(B)_Final_Grades_EHSS_04_PRO_2023T2BT2E_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_IEAP_3W_231009E_T3AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 15_May_2023_B_term_Final_Grades_copy_EHSS_05_PRO_2023T4E_Grades_Grades.csv to non-consolidated.
+  -> Moving 23_May_2022_Final_Grades_EHSS_02_FINAL_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_Done_IEAP_PRE_Final_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_GESL_02_COMM_240109E_T1AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_Done_Complete_GESL_01_Final_Grades_03_April_2024_(A).csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_GESL_02_FOUR_2023T3E_Grades_Grades.csv to non-consolidated.
+  -> Moving 6_May_2024_B_term_Final_Grades_Done_PREB2_Final_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_Done_EHSS_8A_Final_Grades_9_Jan_2024.csv to non-consolidated.
+  -> Skipping Pre_B_Term_01_October_2019_Pre_Beginner.csv (has 12 columns).
+  -> Moving IEAP_4W_240403E_T2AE_Eve_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_IEAP_BW_231009E_T3AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_EHSS_12_R_231009E_T3AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 6_May_2024_B_term_Final_Grades_EHSS_10_R_240506E_T2BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_EHSS_10_W_231009E_T3AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 6_November_2023_B_Term_Final_Grades_DONE_COMPLETE_EHSS_09_9_November_2023_B_Final_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_EHSS_01_VEN_2023T3E_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_IEAP_1W_2023T1ET1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 5_Feb_2024_Grades_B_Term_Done_Completed_IEAP_4_Final_Grades_5_Feb_2024.csv to non-consolidated.
+  -> Moving 6_November_2023_B_Term_Final_Grades_DONE_COMPLETE_GESL_03_9_Nov_2023_B_Final_Grades.csv to non-consolidated.
+  -> Skipping 9_January_2024_Final_Grades_copy_EHSS_08A_COMP_240109E_T1AE_Grades_Grades.csv (has 12 columns).
+  -> Moving 6_November_2023_B_Term_Final_Grades_DONE_GESL_02_Final_Grades.csv to non-consolidated.
+  -> Moving 7_August_2023_(B)_Final_Grades_Done_EHSS_03_Final_Grades_7_Aug_2023_Term_B.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_Done_IEAP_4_Final_Grades_17_July_2023.csv to non-consolidated.
+  -> Moving IEAP_Term_01_October_2019_IEAP_1_4_(2).csv to non-consolidated.
+  -> Skipping 6_May_2024_B_term_Final_Grades_EHSS_07_COMP_240506E_T2BE_Grades_Grades.csv (has 12 columns).
+  -> Moving 17_July_2023_A_term_Final_Grades_EHSS_04_VEN_2023T1ET1E_Grades_Grades.csv to non-consolidated.
+  -> Skipping 16_January_2023_A_Term_Final_Grades_EHSS_07_COMP_2023T1E_Grades_Grades.csv (has 12 columns).
+  -> Moving 9_January_2024_Final_Grades_copy_Done_GESL_3_Final_Grades_9_Jan_2024.csv to non-consolidated.
+  -> Moving 17_Feb_2023_B_term_Final_Grades_IEAP_3_17_Feb_2023_Term_B_Final_Grades_IEAP_3.csv to non-consolidated.
+  -> Skipping TO_SORT_IFL_Grade_Oct_17_2022_IEAP_2_Final_Grade_17_Oct_2022_calculating.csv (has 19 columns).
+  -> Moving 15_May_2023_B_term_Final_Grades_copy_EHSS_05_VEN_2023T4E_Grades_Grades.csv to non-consolidated.
+  -> Skipping January_08,_2020_EHSS_January_2020_FINAL_for_certificate_EHSS_7_&_above.csv (has 17 columns).
+  -> Moving January_2023_A_Final_Grades_copy_EHSS_10_Grades_Grades.csv to non-consolidated.
+  -> Moving 15_May_2023_B_term_Final_Grades_copy_Done_IEAP_1_Final_Grades.csv to non-consolidated.
+  -> Skipping January_2023_A_Final_Grades_copy_EHSS_06_Grades_EHSS_6.csv (has 18 columns).
+  -> Skipping 23_May_2022_Final_Grades_EHSS_11_FINAL_Grades_EHSS_11.csv (has 11 columns).
+  -> Moving 18_April_2022_Final_Grades_IEAP_Beg_18_April_2022_final_grades.csv to consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_Done_EHSS_11_Final_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_EHSS_10_R_2023T3E_Grades_Grades.csv to non-consolidated.
+  -> Moving 5_Feb_2024_Grades_B_Term_PREB2_STEP_240205E_T3BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 03_April_2024_Final_Grades_A_EHSS_08B_R_240403E_T2AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_Done_Complete_EHSS_07A_Final_Grades_03_April_2024_(A).csv to non-consolidated.
+  -> Moving 6_May_2024_B_term_Final_Grades_EHSS_01_PRO_240506E_T2BE_Grades_Grades.csv to non-consolidated.
+  -> Moving January_2023_A_Final_Grades_copy_IEAP_BG_Grades_Grades.csv to non-consolidated.
+  -> Moving 18_April_2022_Final_Grades_IEAP_2G_FINAL_Grades.csv to consolidated.
+  -> Moving 5_Feb_2024_Grades_B_Term_Done_Completed_EHSS_10_Final_Grades_5_Feb_2024.csv to non-consolidated.
+  -> Moving January_2023_A_Final_Grades_copy_GESL_Pre_B1_Jan_2023_A_Final_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_Feb_2023_B_term_Final_Grades_EHSS_06_17_Feb_2023_Term_B_Final_Grades_Grades.csv to non-consolidated.
+  -> Skipping 03_April_2024_Final_Grades_A_EHSS_09A_COMP_240403E_T2AE_Grades_Grades.csv (has 12 columns).
+  -> Moving 6_November_2023_B_Term_Final_Grades_EHSS_04_PRO_231106E_T4BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 18_April_2022_Final_Grades_EHSS_05_Final_Grades.csv to consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_EHSS_6_VEN_231009E_T3AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 6_May_2024_B_term_Final_Grades_Done_Complete_IEAP_4_Final_Grades_5_May_2024.csv to non-consolidated.
+  -> Moving 15_May_2023_B_term_Final_Grades_copy_Done_EHSS_01_Final_Grades_15_May_2023.csv to non-consolidated.
+  -> Moving 6_May_2024_B_term_Final_Grades_GESL_02_ENGL_240506E_T2BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 15_May_2023_B_term_Final_Grades_copy_Done_GESL_1_Final_Grades.csv to non-consolidated.
+  -> Moving 16_January_2023_A_Term_Final_Grades_IEAP_1W_2023T1E_Grades_Grades.csv to non-consolidated.
+  -> Skipping January_2023_A_Final_Grades_copy_IEAP_BG_Grades_IEAP_Beginner.csv (has 18 columns).
+  -> Moving 9_January_2024_Final_Grades_copy_Done_EHSS_9_Final_Grades_9_Jan_2024.csv to non-consolidated.
+  -> Moving IFL_November_2022_Final_Grades_EHSS_04_Final_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_Done_EHSS_11_Final_Grades.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_EHSS_8B_VEN_231009E_T3AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 5_Feb_2024_Grades_B_Term_EHSS_06_VEN_240205E_T3BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 7_August_2023_(B)_Final_Grades_Done_EHSS_08_Final_Grades_6_Aug_2023_Term_B.csv to non-consolidated.
+  -> Skipping 9_January_2024_Final_Grades_copy_EHSS_09_COMP_240109E_T1AE_Grades_Grades.csv (has 12 columns).
+  -> Moving 16_January_2023_A_Term_Final_Grades_GESL_PB2_SMART_2023T1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 18_April_2022_Final_Grades_EHSS_12_Final_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_Done_EHSS_5_Final_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_Done_EHSS_7B_Final_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_Done_EHSS_03_Final_Grades.csv to non-consolidated.
+  -> Moving 18_April_2022_Final_Grades_EHSS_06_Final_Grades_18_April_2022.csv to consolidated.
+  -> Moving 7_August_2023_(B)_Final_Grades_Done_EHSS_11_Final_Grades_7_Aug_2023_Term_B.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_IEAP_2W_240109E_T1AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 03_April_2024_Final_Grades_A_EHSS_01_VEN_240403E_T2AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 28_June_2021_Grades_copy_EHSS_09_3D_2021T2T2E_Grades_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_Done_EHSS_09A_Final_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_Done_EHSS_5_Final_Grades.csv to non-consolidated.
+  -> Moving 6_November_2023_B_Term_Final_Grades_EHSS_07_R_231106E_T4BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_EHSS_05_VEN_240109E_T1AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 6_May_2024_B_term_Final_Grades_Done_EHSS_06_Final_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_GESL_03_FOUR_2023T1ET1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 18_April_2022_Final_Grades_EHSS_01_FINAL_Grades_Grades.csv to non-consolidated.
+  -> Moving 5_Feb_2024_Grades_B_Term_Done_EHSS_4_Final_Grades.csv to non-consolidated.
+  -> Moving 7_August_2023_(B)_Final_Grades_EHSS_04_VEN_2023T2BT2E_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_EHSS_7B_VEN_231009E_T3AE_Grades_Grades.csv to non-consolidated.
+  -> Skipping TO_SORT_2023T1E_Done_EHSS_11_Grades_m.csv (has 16 columns).
+  -> Moving 6_May_2024_B_term_Final_Grades_Done_GESL_01_Final_Grades.csv to non-consolidated.
+  -> Moving January_2023_A_Final_Grades_copy_EHSS_07B_Grades_EHSS_7B.csv to non-consolidated.
+  -> Moving 28_June_2021_Grades_copy_IEAP_1_final_28_06_21.csv to consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_EHSS_02_PRO_240109E_T1AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 28_June_2021_Grades_copy_IEAP_PW_2021T2T2E_Grades_Grades.csv to non-consolidated.
+  -> Moving 16_January_2023_A_Term_Final_Grades_EHSS_03_VEN_2023T1E_Grades_Grades.csv to non-consolidated.
+  -> Moving IEAP_Term_01_October_2019_IEAP_Pre_&_Beginner_(2).csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_IEAP_PG_2023T3E_Grades_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_EHSS_09A_VEN_2023T3E_Grades_Grades.csv to non-consolidated.
+  -> Moving 15_May_2023_B_term_Final_Grades_copy_EHSS_07_R_2023T4E_Grades_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_Done_GESL_04_Final_Grades.csv to non-consolidated.
+  -> Moving 28_June_2021_Grades_copy_IEAP_BW_2021T2T2E_Grades_Grades.csv to non-consolidated.
+  -> Moving IFL_November_2022_Final_Grades_EHSS_04_Final_Grades_EHSS_4_Result.csv to non-consolidated.
+  -> Moving TO_SORT_IFL_Grade_Oct_17_2022_EHSS_09_Final_Grades_17_Oct_2022_calculating.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_EHSS_11_W_240109E_T1AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_IEAP_BG_231009E_T3AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_Feb_2023_B_term_Final_Grades_IEAP_Beg_17_Feb_B_Term_Final_Grades_Grades.csv to non-consolidated.
+  -> Moving 6_November_2023_B_Term_Final_Grades_EHSS_08_VEN_231106E_T4BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 28_June_2021_Grades_copy_EHSS_03_3D_2021T2T2E_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_Feb_2023_B_term_Final_Grades_EHSS_01_17_February_2023_Term_B_Final_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_IEAP_3G_231009E_T3AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 5_Feb_2024_Grades_B_Term_EHSS_01_PRO_240205E_T3BE_Grades_Grades.csv to non-consolidated.
+  -> Skipping 19_April_2023_A_term_Final_Grades_EHSS_09B_COMP_2023T3E_Grades_Grades.csv (has 12 columns).
+  -> Moving 9_January_2024_Final_Grades_copy_Done_EHSS_2_Final_Grades.csv to non-consolidated.
+  -> Skipping 19_April_2023_A_term_Final_Grades_EHSS_08A_COMP_2023T3E_Grades_Grades.csv (has 12 columns).
+  -> Moving 16_January_2023_A_Term_Final_Grades_EHSS_03_PRO_2023T1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 03_April_2024_Final_Grades_A_IEAP_1W_240403E_T2AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_Done_GESL_1_Final_Grades.csv to non-consolidated.
+  -> Moving 03_April_2024_Final_Grades_A_GESL_04_FOUR_240403E_T2AE_Grades_Grades.csv to non-consolidated.
+  -> Moving IFL_July_2022_term_A_IEAP_3_final_grades_July_2022_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_EHSS_08A_R_240109E_T1AE_Grades_Grades.csv to non-consolidated.
+  -> Moving January_2023_A_Final_Grades_copy_EHSS_03_January_2023_Final_Grades_EHSS_3.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_EHSS_04_PRO_2023T1ET1E_Grades_Grades.csv to non-consolidated.
+  -> Moving January_2023_A_Final_Grades_copy_IEAP_3G_2023T1E_Grades_(2)_Grades.csv to non-consolidated.
+  -> Moving 6_November_2023_B_Term_Final_Grades_EHSS_03_VEN_231106E_T4BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_EHSS_1_PRO_231009E_T3AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_IEAP_BG_2023T1ET1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 28_June_2021_Grades_copy_EHSS_05_3D_2021T2T2E_Grades_Grades.csv to non-consolidated.
+  -> Moving IFL_November_2022_Final_Grades_GESL_B2_Final_Grades_EHSS_Pre_B2_Result.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_IEAP_2G_240109E_T1AE_Grades_Grades.csv to non-consolidated.
+  -> Moving IFL_July_2022_term_A_IEAP_BG_2022T1T1E_Grades_rev._1_Grades.csv to non-consolidated.
+  -> Skipping TO_SORT_2023T1E_Done_EHSS_03_Grades_m.csv (has 16 columns).
+  -> Moving 6_May_2024_B_term_Final_Grades_EHSS_06_VEN_240506E_T2BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_EHSS_8B_R_231009E_T3AE_Grades_Grades.csv to non-consolidated.
+  -> Moving January_2023_A_Final_Grades_copy_EHSS_08_January_2023_Final_Grades_EHSS_8B.csv to non-consolidated.
+  -> Moving January_2023_A_Final_Grades_copy_EHSS_09_Grades_Grades.csv to non-consolidated.
+  -> Skipping TO_SORT_2023T1E_Done_EHSS_04_Grades_m.csv (has 16 columns).
+  -> Moving 9_January_2024_Final_Grades_copy_Done_IEAP_1_Final_Grades.csv to non-consolidated.
+  -> Moving 6_November_2023_B_Term_Final_Grades_DONE_EHSS_05_Final_Grades.csv to non-consolidated.
+  -> Moving 6_November_2023_B_Term_Final_Grades_DONE_COMPLETE_EHSS_01_9_Nov_2023_B_Final_Grades.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_EHSS_6_R_231009E_T3AE_Grades_Grades.csv to non-consolidated.
+  -> Moving IFL_July_2022_term_A_EHSS_3_final_grades_July_2022_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_Done_EHSS_7B_Final_Grades_9_Jan_2024.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_Done_COMPLETE_EHSS_3_Final_Grades.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_Done_COMPLETE_EHSS_7C_Final_Grades_9_October_2023.csv to non-consolidated.
+  -> Moving 5_Feb_2024_Grades_B_Term_EHSS_07_R_240205E_T3BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_GESL_01_FOUR_240109E_T1AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_Feb_2023_B_term_Final_Grades_IEAP_3_17_Feb_2023_Term_B_Final_Grades_Grades.csv to non-consolidated.
+  -> Moving IFL_July_2022_term_A_EHSS_4_final_grades_July_2022_FINAL_Grades.csv to consolidated.
+  -> Skipping 03_April_2024_Final_Grades_A_EHSS_07C_COMP_240403E_T2AE_Grades_Grades.csv (has 12 columns).
+  -> Moving 17_July_2023_A_term_Final_Grades_Done_EHSS_6_Final_Grades_17_July_2023.csv to non-consolidated.
+  -> Moving 7_August_2023_(B)_Final_Grades_IEAP_2G_2023T2BT2E_Grades_Grades.csv to non-consolidated.
+  -> Moving 23_May_2022_Final_Grades_EHSS_11_FINAL_Grades_Grades.csv to non-consolidated.
+  -> Moving 18_April_2022_Final_Grades_EHSS_02_final_grades_18_April_2022_Grades.csv to non-consolidated.
+  -> Moving 6_May_2024_B_term_Final_Grades_Done_EHSS_09_Final_Grades.csv to non-consolidated.
+  -> Moving TO_SORT_IFL_Grade_Oct_17_2022_IEAP_4_Final_Grades_17_Oct_2022_calculating.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_EHSS_06_VEN_2023T3E_Grades_Grades.csv to non-consolidated.
+  -> Moving January_2023_A_Final_Grades_copy_EHSS_08_January_2023_Final_Grades_revised_EHSS_8B.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_IEAP_1W_2023T3E_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_Done_IEAP_3_Final_Grades_17_July_2023.csv to non-consolidated.
+  -> Moving 15_May_2023_B_term_Final_Grades_copy_Done_EHSS_04_Final_Grades.csv to non-consolidated.
+  -> Moving 7_August_2023_(B)_Final_Grades_Done_EHSS_11_Final_Grades.csv to non-consolidated.
+  -> Skipping IFL_July_2022_term_A_IEAP_BG_2022T1T1E_Grades_FINAL_Grades.csv (has 12 columns).
+  -> Moving 9_January_2024_Final_Grades_copy_GESL_01_COMM_240109E_T1AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 6_November_2023_B_Term_Final_Grades_DONE_EHSS_01_Final_Grades.csv to non-consolidated.
+  -> Moving 5_Feb_2024_Grades_B_Term_PREB2_SMART_240205E_T3BE_Grades_Grades.csv to non-consolidated.
+  -> Moving January_2023_A_Final_Grades_copy_GESL_01_January_2023_Term_A_Final_Grades_Common.csv to non-consolidated.
+  -> Moving 03_April_2024_Final_Grades_A_EHSS_07B_R_240403E_T2AE_Grades_Grades.csv to non-consolidated.
+  -> Moving IFL_July_2022_term_A_EHSS_1_final_grades_July_2022_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_Done_IEAP_3_Final_Grades.csv to non-consolidated.
+  -> Moving 15_May_2023_B_term_Final_Grades_copy_EHSS_02_VEN_2023T4E_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_Done_EHSS_12_Final_Grades.csv to non-consolidated.
+  -> Moving 6_May_2024_B_term_Final_Grades_Done_Complete_GESL_05_Final_Grades_5_May_2024.csv to non-consolidated.
+  -> Skipping IFL_July_2022_term_A_EHSS_8_final_grades_July_2022_FINAL_Grades.csv (has 13 columns).
+  -> Skipping 03_April_2024_Final_Grades_A_EHSS_08A_COMP_240403E_T2AE_Grades_Grades.csv (has 12 columns).
+  -> Skipping 19_April_2023_A_term_Final_Grades_EHSS_07_COMP_2023T3E_Grades_Grades.csv (has 12 columns).
+  -> Moving January_2023_A_Final_Grades_copy_EHSS_11_January_2023_A_Final_Grades_Grades.csv to non-consolidated.
+  -> Moving 7_August_2023_(B)_Final_Grades_IEAP_1W_2023T2BT2E_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_Done_COMPLETE_EHSS_8A_Final_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_IEAP_PW_240109E_T1AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 5_Feb_2024_Grades_B_Term_EHSS_10_R_240205E_T3BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_EHSS_08_VEN_2023T1ET1E_Grades_Grades.csv to non-consolidated.
+  -> Moving IFL_November_2022_Final_Grades_IEAP_4_Final_Grades_Grades.csv to non-consolidated.
+  -> Moving IFL_July_2022_term_A_EHSS_6_final_grades_July_2022_FINAL_Grades.csv to consolidated.
+  -> Moving EHSS_Term_01_October_2019_EHSS_7_&_above.csv to non-consolidated.
+  -> Moving 03_April_2024_Final_Grades_A_EHSS_09A_R_240403E_T2AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 15_May_2023_B_term_Final_Grades_copy_IEAP_1W_2023T4E_Grades_Grades.csv to non-consolidated.
+  -> Moving 7_August_2023_(B)_Final_Grades_Done_GESL_02_Final_Grades.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_Done_COMPLETE_GESL_4_Final_Grades.csv to non-consolidated.
+  -> Skipping January_2023_A_Final_Grades_copy_EHSS_03_Grades_EHSS_3.csv (has 18 columns).
+  -> Moving 7_August_2023_(B)_Final_Grades_EHSS_07B_VEN_2023T2BT2E_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_Done_EHSS_7A_Final_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_EHSS_06_PRO_2023T3E_Grades_Grades.csv to non-consolidated.
+  -> Moving 5_Feb_2024_Grades_B_Term_Done_IEAP_3_Final_Grades.csv to non-consolidated.
+  -> Moving 18_April_2022_Final_Grades_EHSS_03_FINAL_Grades_18_April_2022_Grades.csv to non-consolidated.
+  -> Moving TO_SORT_2023T1E_Grades_Temp_EHSS_01_2023T1E_Grades_combo.csv to non-consolidated.
+  -> Moving 6_May_2024_B_term_Final_Grades_Done_Complete_EHSS_02_Final_Grades_May_2024.csv to non-consolidated.
+  -> Moving IFL_July_2022_term_A_IEAP_Pre_B_July_2022_final_grades_Grades.csv to non-consolidated.
+  -> Moving 5_Feb_2024_Grades_B_Term_Done_Completed_EHSS_5_Final_Grades_5_Feb_2024.csv to non-consolidated.
+  -> Moving January_2023_A_Final_Grades_copy_EHSS_11_Grades_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_Done_Complete_IEAP_1_Final_Grades_03_April_2024_(A).csv to non-consolidated.
+  -> Skipping 9_January_2024_Final_Grades_copy_EHSS_08B_COMP_240109E_T1AE_Grades_Grades.csv (has 12 columns).
+  -> Moving 15_May_2023_B_term_Final_Grades_copy_EHSS_02_PRO_2023T4E_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_Done_EHSS_3_Final_Grades_9_Jan_2024.csv to non-consolidated.
+  -> Moving 15_May_2023_B_term_Final_Grades_copy_GESL_PB2_STEP_2023T4E_Grades_Grades.csv to non-consolidated.
+  -> Moving TO_SORT_IFL_Grade_Oct_17_2022_EHSS_10_Final_Grades_17_Oct_2022_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_IEAP_4AW_2023T3E_Grades_Grades.csv to non-consolidated.
+  -> Moving EHSS_Term_01_October_2019.csv to consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_Done_COMPLETE_IEAP_2_Final_Grades_9_October_2023.csv to non-consolidated.
+  -> Moving 28_June_2021_Grades_copy_EHSS_06_2D_2021T2T2E_Grades_Grades.csv to non-consolidated.
+  -> Skipping January_2023_A_Final_Grades_copy_IEAP_Pre_Beginner_Grades_Pre_Beginner.csv (has 17 columns).
+  -> Moving 18_April_2022_Final_Grades_IEAP_3G_FINAL_Grades.csv to consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_Done_COMPLETE_IEAP_B_Final_Grades.csv to non-consolidated.
+  -> Moving 23_May_2022_Final_Grades_EHSS_06_FINAL_Grades_Grades.csv to non-consolidated.
+  -> Moving 15_May_2023_B_term_Final_Grades_copy_Done_IEAP_1_Final_Grades_15_May_2023.csv to non-consolidated.
+  -> Moving 15_May_2023_B_term_Final_Grades_copy_EHSS_08_R_2023T4E_Grades_Grades.csv to non-consolidated.
+  -> Moving 6_November_2023_B_Term_Final_Grades_IEAP_3W_231106E_T4BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 7_August_2023_(B)_Final_Grades_GESL_02_FOUR_2023T2BT2E_Grades_Grades.csv to non-consolidated.
+  -> Moving 6_November_2023_B_Term_Final_Grades_EHSS_05_VEN_231106E_T4BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_EHSS_7B_R_2023T1ET1E_Grades_Grades.csv to non-consolidated.
+  -> Moving IFL_July_2022_term_A_IEAP_1_final_grades_July_2022_Grades.csv to non-consolidated.
+  -> Moving 17_Feb_2023_B_term_Final_Grades_EHSS_09_17_Feb_B_Term_Final_Grades_Grades.csv to non-consolidated.
+  -> Moving 6_May_2024_B_term_Final_Grades_EHSS_10_GREAT_240506E_T2BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 03_April_2024_Final_Grades_A_GESL_04_COMM_240403E_T2AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_EHSS_11_W_2023T3E_Grades_Grades.csv to non-consolidated.
+  -> Skipping 03_April_2024_Final_Grades_A_EHSS_09B_COMP_240403E_T2AE_Grades_Grades.csv (has 12 columns).
+  -> Moving January_2023_A_Final_Grades_copy_EHSS_04_January_23_A_Term_Final_Grades_Grades.csv to non-consolidated.
+  -> Moving TO_SORT_IFL_Grade_Oct_17_2022_IEAP_1_Final_Grades_17_Oct_2022_Grades.csv to non-consolidated.
+  -> Moving TO_SORT_IFL_Grade_Oct_17_2022_EHSS_01_Final_Grades_17_Oct_2022_calculating.csv to non-consolidated.
+  -> Moving 22_Aug_2022_B_term_grades_copy_EHSS_07_(22_August_2022_final_grades)_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_Done_EHSS_11_Final_Grades_9_Jan_2024.csv to non-consolidated.
+  -> Moving 03_April_2024_Final_Grades_A_EHSS_08A_VEN_240403E_T2AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_IEAP_2G_2023T3E_Grades_Grades.csv to non-consolidated.
+  -> Skipping 28_June_2021_Grades_copy_IEAP_2_final_28_06_21.csv (has 11 columns).
+  -> Moving 6_May_2024_B_term_Final_Grades_Done_GESL_05_Final_Grades.csv to non-consolidated.
+  -> Moving 6_May_2024_B_term_Final_Grades_GESL_01_ENGL_240506E_T2BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_EHSS_04_PRO_240109E_T1AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_Done_GESL_5_Final_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_IEAP_4BG_2023T3E_Grades_Grades.csv to non-consolidated.
+  -> Moving 16_January_2023_A_Term_Final_Grades_EHSS_11_W_2023T1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 16_January_2023_A_Term_Final_Grades_GESL_01_COMMON_2023T1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_GESL_PB2_STEP_2023T1ET1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_Done_EHSS_08A_Final_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_Done_EHSS_6_Final_Grades.csv to non-consolidated.
+  -> Moving 18_April_2022_Final_Grades_EHSS_01_FINAL_Grades_18_April_2022_Grades.csv to non-consolidated.
+  -> Moving TO_SORT_IFL_Grade_Oct_17_2022_EHSS_03_Final_Grades_17_Oct_2022_Grades.csv to non-consolidated.
+  -> Moving 6_November_2023_B_Term_Final_Grades_DONE_COMPLETE_EHSS_12_9_Nov_2024_B_Final_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_EHSS_12_W_2023T1ET1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_Done_IEAP_BEG_Final_Grades.csv to non-consolidated.
+  -> Moving IFL_November_2022_Final_Grades_EHSS_03_Final_Grades_EHSS_3_Result.csv to non-consolidated.
+  -> Moving 03_April_2024_Final_Grades_A_EHSS_07A_VEN_240403E_T2AE_Grades_Grades.csv to non-consolidated.
+  -> Skipping TO_SORT_2023T1E_Done_EHSS_05_Grades_m.csv (has 16 columns).
+  -> Moving 17_Feb_2023_B_term_Final_Grades_EHSS_04_17_February_2023_Term_B_Final_Grades_Grades.csv to non-consolidated.
+  -> Moving 6_November_2023_B_Term_Final_Grades_EHSS_12_W_231106E_T4BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_EHSS_07A_R_240109E_T1AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 5_Feb_2024_Grades_B_Term_GESL_01_ENGL_240205E_T3BE_Grades_Grades.csv to non-consolidated.
+  -> Moving January_2023_A_Final_Grades_copy_EHSS_08A_Grades_Grades.csv to non-consolidated.
+  -> Moving 6_May_2024_B_term_Final_Grades_PREB2_SMART_240506E_T2BE_Grades_Grades.csv to non-consolidated.
+  -> Skipping TO_SORT_2023T1E_Done_EHSS_02_Grades_m.csv (has 16 columns).
+  -> Moving 18_April_2022_Final_Grades_EHSS_01_FINAL_Grades.csv to consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_EHSS_03_VEN_240109E_T1AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_GESL_01_FOUR_2023T1ET1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 16_January_2023_A_Term_Final_Grades_EHSS_04_PRO_2023T1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 18_April_2022_Final_Grades_EHSS_07_Final_Grades_18_April_2022_Grades.csv to non-consolidated.
+  -> Moving 18_April_2022_Final_Grades_IEAP_1_Final_grade_18_April_2022_term.csv to consolidated.
+  -> Moving 22_Aug_2022_B_term_grades_copy_EHSS_12_(grades_for_22_August_2022_B_term).csv to consolidated.
+  -> Moving 16_January_2023_A_Term_Final_Grades_EHSS_09_R_2023T1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_Done_Complete_EHSS_10_Final_Grades_03_April_2024.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_Done_Complete_GESL_06_Final_Results_03_April_2024_(A).csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_IEAP_PG_240109E_T1AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 6_November_2023_B_Term_Final_Grades_EHSS_02_PRO_231106E_T4BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 18_April_2022_Final_Grades_IEAP_BG_FINAL_Grades_Grades.csv to non-consolidated.
+  -> Moving 6_May_2024_B_term_Final_Grades_Done_EHSS_02_Final_Grades.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_Done_GESL_2_Final_Grades.csv to non-consolidated.
+  -> Moving 17_Feb_2023_B_term_Final_Grades_IEAP_4_17_Feb_2023_Final_Grades_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_Done_EHSS_07C_Final_Grades.csv to non-consolidated.
+  -> Moving 18_April_2022_Final_Grades_GESL_PB2_FNAL_Grades.csv to consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_Done_EHSS_1_Final_Grades.csv to non-consolidated.
+  -> Moving 15_May_2023_B_term_Final_Grades_copy_EHSS_10_W_2023T4E_Grades_Grades.csv to non-consolidated.
+  -> Moving 7_August_2023_(B)_Final_Grades_EHSS_08_VEN_2023T2BT2E_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_Done_EHSS_1_Final_Grades.csv to non-consolidated.
+  -> Moving 16_January_2023_A_Term_Final_Grades_EHSS_04_VEN_2023T1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 18_April_2022_Final_Grades_EHSS_06_Final_Grades_18_April_2022_Grades.csv to non-consolidated.
+  -> Moving TO_SORT_IFL_Grade_Oct_17_2022_EHSS_Pre_B2_Final_Grades_17_Oct_2022_Grades.csv to non-consolidated.
+  -> Moving TO_SORT_IFL_Grade_Oct_17_2022_EHSS_05_Final_Grades_17_Oct_2022_calculating.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_Done_GESL_2_Final_Grades.csv to non-consolidated.
+  -> Skipping 17_July_2023_A_term_Final_Grades_EHSS_7A_COMP_2023T1ET1E_Grades_Grades.csv (has 12 columns).
+  -> Moving 16_January_2023_A_Term_Final_Grades_IEAP_PG_2023T1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 6_November_2023_B_Term_Final_Grades_EHSS_09_CONV_231106E_T4BE_Grades_Grades.csv to consolidated.
+  -> Moving 18_April_2022_Final_Grades_EHSS_05_Final_Grades_18_April_2022_Grades.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_Done_IEAP_2_Final_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_IEAP_2G_2023T1ET1E_Grades_Grades.csv to non-consolidated.
+  -> Skipping 28_June_2021_Grades_copy_EHSS_09_final_28_06_21.csv (has 11 columns).
+  -> Moving 28_June_2021_Grades_copy_IEAP_3G_2021T2T2E_Grades_Grades.csv to non-consolidated.
+  -> Moving 6_November_2023_B_Term_Final_Grades_DONE_COMPLETE_EHSS_06_9_Nov_2023_B_Final_Grades.csv to non-consolidated.
+  -> Moving 7_August_2023_(B)_Final_Grades_Done_EHSS_05_Final_Grades_7_Aug_2023_Term_B.csv to non-consolidated.
+  -> Skipping 22_Aug_2022_B_term_grades_copy_IEAP_1_(final_grades_22_August_2022_B_term).csv (has 12 columns).
+  -> Moving 6_May_2024_B_term_Final_Grades_EHSS_07_R_240506E_T2BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 28_June_2021_Grades_copy_EHSS_04_final_28_06_21.csv to consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_Done_EHSS_9A_Final_Grades_17_July_2023.csv to non-consolidated.
+  -> Moving 7_August_2023_(B)_Final_Grades_Done_EHSS_07A_Final_Grades_7_Aug_2023_Term_B.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_Done_EHSS_1_Final_Grades_17_July_2023.csv to non-consolidated.
+  -> Skipping EHSS_Term_01_October_2019_EHSS_(1_6).csv (has 19 columns).
+  -> Moving 15_May_2023_B_term_Final_Grades_copy_Done_EHSS_10_Final_Grades.csv to non-consolidated.
+  -> Moving 7_August_2023_(B)_Final_Grades_Done_EHSS_05_Final_Grades.csv to non-consolidated.
+  -> Skipping TO_SORT_2023T1E_Done_EHSS_10_Grades_m.csv (has 16 columns).
+  -> Skipping January_2023_A_Final_Grades_copy_EHSS_07A_Grades_EHSS_7A.csv (has 19 columns).
+  -> Moving 18_April_2022_Final_Grades_EHSS_05_Final_Grades_Grades.csv to non-consolidated.
+  -> Moving 03_April_2024_Final_Grades_A_EHSS_12_R_240403E_T2AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 03_April_2024_Final_Grades_A_EHSS_10_W_240403E_T2AE_Grades_Grades.csv to non-consolidated.
+  -> Moving January_2023_A_Final_Grades_copy_GESL_PB2_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_Done_IEAP_2_Final_Grades.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_EHSS_7B_R_231009E_T3AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 18_April_2022_Final_Grades_IEAP_2G_FINAL_Grades_Grades.csv to non-consolidated.
+  -> Moving IFL_November_2022_Final_Grades_GESL_B2_Final_Grades_Grades.csv to non-consolidated.
+  -> Skipping IFL_July_2022_term_A_EHSS_9_final_grades_July_2022_FINAL_Grades.csv (has 12 columns).
+  -> Skipping 7_August_2023_(B)_Final_Grades_EHSS_08_CONV_2023T2BT2E_Grades_Grades.csv (has 12 columns).
+  -> Skipping IFL_July_2022_term_A_EHSS_7_final_grades_July_2022_FINAL_Grades.csv (has 12 columns).
+  -> Moving 19_April_2023_A_term_Final_Grades_Done_Complete_EHSS_02_Final_Grades_03_April_2024_(A).csv to non-consolidated.
+  -> Moving 18_April_2022_Final_Grades_EHSS_04_Final_Grades_18_April_2022_Grades.csv to non-consolidated.
+  -> Moving 6_November_2023_B_Term_Final_Grades_IEAP_3G_231106E_T4BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_Done_COMPLETE_EHSS_10_Final_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_GESL_02_FOUR_240109E_T1AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 15_May_2023_B_term_Final_Grades_copy_Done_EHSS_02_Final_Grades_15_May_2023.csv to non-consolidated.
+  -> Moving 18_April_2022_Final_Grades_GESL_PB2_FNAL_Grades_18_April_2022_Grades.csv to non-consolidated.
+  -> Moving 5_Feb_2024_Grades_B_Term_Done_PREB2_Final_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_Done_EHSS_4_Final_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_IEAP_4G_2023T1ET1E_Grades_Grades.csv to non-consolidated.
+  -> Moving IFL_July_2022_term_A_EHSS_PreB2_final_grades_July_2022_Grades.csv to non-consolidated.
+  -> Moving 7_August_2023_(B)_Final_Grades_EHSS_07A_VEN_2023T2BT2E_Grades_Grades.csv to non-consolidated.
+  -> Moving 6_May_2024_B_term_Final_Grades_Done_EHSS_07_Final_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_Done_EHSS_6_Final_Grades_9_January_2024.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_Done_Complete_EHSS_12_Final_Results_03_April_2024_(A).csv to non-consolidated.
+  -> Moving January_2023_A_Final_Grades_copy_EHSS_07_January_2023_A_Term_Final_Grades_EHSS_7A.csv to non-consolidated.
+  -> Moving 03_April_2024_Final_Grades_A_EHSS_09B_R_240403E_T2AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_Feb_2023_B_term_Final_Grades_EHSS_07_17_Feb_2023_B_term_Final_Grades_Grades.csv to non-consolidated.
+  -> Moving 7_August_2023_(B)_Final_Grades_Done_EHSS_09_Final_Grades_7_Aug_2023_Term_B.csv to non-consolidated.
+  -> Moving IFL_July_2022_term_A_IEAP_2_final_grades_July_2022_FINAL_Grades.csv to consolidated.
+  -> Moving January_2023_A_Final_Grades_copy_GESL_01_Grades_Sheet2.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_Done_Complete_EHSS_05_Final_Grades_03_April_2024_(A).csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_Done_EHSS_02_Final_Grades.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_Done_EHSS_4_Final_Grades.csv to non-consolidated.
+  -> Moving 5_Feb_2024_Grades_B_Term_Done_Completed_GESL_1_Final_Grades_5_Feb_2024.csv to non-consolidated.
+  -> Moving 03_April_2024_Final_Grades_A_EHSS_07A_R_240403E_T2AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 28_June_2021_Grades_copy_EHSS_08_3D_2021T2T2E_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_Done_EHSS_10_Final_Grades.csv to non-consolidated.
+  -> Moving 22_Aug_2022_B_term_grades_copy_IEAP_3_(August_22_B_term_final_grades)_Grades.csv to non-consolidated.
+  -> Moving IFL_July_2022_term_A_EHSS_3_final_grades_July_2022_FINAL_Grades.csv to consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_GESL_04_COMM_240109E_T1AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 5_Feb_2024_Grades_B_Term_IEAP_4G_240205E_T3BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 18_April_2022_Final_Grades_EHSS_07_Final_Grades_18_April_2022.csv to consolidated.
+  -> Moving 7_August_2023_(B)_Final_Grades_Done_EHSS_02_Final_Grades_7_Aug_2023_Term_B.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_EHSS_08B_COMP_2023T3E_Grades_S2.csv to consolidated.
+  -> Moving GESL_05_Final_Grades_03_April_2024_(A).csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_Done_COMPLETE_EHSS_9_Final_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_EHSS_08A_VEN_240109E_T1AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 18_April_2022_Final_Grades_EHSS_04_Final_Grades.csv to consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_Done_Complete_PREB2_Final_Grades_03_April_2024.csv to non-consolidated.
+  -> Moving 18_April_2022_Final_Grades_EHSS_09_Final_Grades_Grades.csv to non-consolidated.
+  -> Moving GESL_05_FOUR_240403E_T2AE_Grades_Grades.csv to non-consolidated.
+  -> Moving IFL_November_2022_Final_Grades_IEAP_4_Final_Grades_IEAP_4_Result.csv to non-consolidated.
+  -> Moving 15_May_2023_B_term_Final_Grades_copy_Done_GESL_PREB2_Final_Grades.csv to non-consolidated.
+  -> Moving 18_April_2022_Final_Grades_EHSS_06_Final_Grades_Grades.csv to non-consolidated.
+  -> Moving TO_SORT_IFL_Grade_Oct_17_2022_IEAP_2_Final_Grade_17_Oct_2022_Grades.csv to non-consolidated.
+  -> Moving 5_Feb_2024_Grades_B_Term_Done_Completed_IEAP_B_Final_Grades_5_Feb_2024.csv to non-consolidated.
+  -> Moving 17_Feb_2023_B_term_Final_Grades_EHSS_03_17_February_2023_Term_B_Final_Grades_Grades.csv to non-consolidated.
+  -> Moving 5_Feb_2024_Grades_B_Term_EHSS_07_VEN_240205E_T3BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_GESL_02_FOUR_2023T1ET1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_GESL_3_COMM_231009E_T3AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_Done_EHSS_10_Final_Grades.csv to non-consolidated.
+  -> Moving 6_November_2023_B_Term_Final_Grades_DONE_GESL_03_Final_Grades.csv to non-consolidated.
+  -> Moving 15_May_2023_B_term_Final_Grades_copy_EHSS_10_R_2023T4E_Grades_Grades.csv to non-consolidated.
+  -> Moving 16_January_2023_A_Term_Final_Grades_EHSS_02_PRO_2023T1E_Grades_Grades.csv to non-consolidated.
+  -> Moving TO_SORT_2023T1E_Grades_Temp_EHSS_01_2023T1E_Grades_combo_minus_leave.csv to non-consolidated.
+  -> Moving 22_Aug_2022_B_term_grades_copy_IEAP_3_(August_22_B_term_final_grades).csv to consolidated.
+  -> Moving 6_November_2023_B_Term_Final_Grades_EHSS_05_PRO_231106E_T4BE_Grades_Grades.csv to non-consolidated.
+  -> Skipping TO_SORT_2023T1E_Done_IEAP_1_Grades_m.csv (has 18 columns).
+  -> Moving 6_November_2023_B_Term_Final_Grades_EHSS_08_R_231106E_T4BE_Grades_Grades.csv to non-consolidated.
+  -> Moving TO_SORT_IFL_Grade_Oct_17_2022_IEAP_4_Final_Grades_17_Oct_2022_Grades.csv to non-consolidated.
+  -> Skipping 17_July_2023_A_term_Final_Grades_EHSS_7B_COMP_2023T1ET1E_Grades_Grades.csv (has 12 columns).
+  -> Moving 03_April_2024_Final_Grades_A_GESL_01_COMM_240403E_T2AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_EHSS_04_VEN_240109E_T1AE_Grades_Grades.csv to non-consolidated.
+  -> Skipping IEAP_4G_240403E_T2AE_Grades_Grades.csv (has 13 columns).
+  -> Moving 18_April_2022_Final_Grades_EHSS_01_FINAL_Grades_18_April_2022.csv to consolidated.
+  -> Skipping 9_Oct_2023_(A)_Final_Grades_copy_EHSS_8A_COMP_231009E_T3AE_Grades_Grades.csv (has 12 columns).
+  -> Moving 18_April_2022_Final_Grades_EHSS_12_Final_Grades_18_April_2022.csv to consolidated.
+  -> Moving 16_January_2023_A_Term_Final_Grades_EHSS_02_VEN_2023T1E_Grades_Grades.csv to non-consolidated.
+  -> Moving TO_SORT_IFL_Grade_Oct_17_2022_IEAP_B_Final_Grades_17_Oct_2022_calculating.csv to non-consolidated.
+  -> Moving 28_June_2021_Grades_copy_IEAP_1W_2021T2T2E_Grades_Grades.csv to non-consolidated.
+  -> Moving January_2023_A_Final_Grades_copy_EHSS_02_January_2023_Term_A_Final_Grades_EHSS_2.csv to non-consolidated.
+  -> Moving IEAP_Term_01_October_2019_Sheet3.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_Done_EHSS_7C_Final_Grades.csv to non-consolidated.
+  -> Moving 03_April_2024_Final_Grades_A_IEAP_PG_240403E_T2AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 28_June_2021_Grades_copy_EHSS_02_final_28_06_21.csv to consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_IEAP_3G_2023T3E_Grades_Grades.csv to non-consolidated.
+  -> Moving IEAP_4_Final_Grades_3_April_2024.csv to non-consolidated.
+  -> Moving 16_January_2023_A_Term_Final_Grades_EHSS_11_R_2023T1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_Feb_2023_B_term_Final_Grades_EHSS_09_17_Feb_B_Term_Final_Grades_EHSS_9.csv to non-consolidated.
+  -> Moving January_2023_A_Final_Grades_copy_EHSS_08B_Grades_Grades.csv to non-consolidated.
+  -> Moving IFL_July_2022_term_A_IEAP_2_final_grades_July_2022_Grades.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_Done_COMPLETE_GESL_1_Final_Grades.csv to non-consolidated.
+  -> Moving 16_January_2023_A_Term_Final_Grades_EHSS_07B_VEN_2023T1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 23_May_2022_Final_Grades_EHSS_03_FINALGrades_EHSS_3.csv to consolidated.
+  -> Moving 6_November_2023_B_Term_Final_Grades_EHSS_09_VEN_231106E_T4BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 5_Feb_2024_Grades_B_Term_IEAP_4W_240205E_T3BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_Done_EHSS_9B_Final_Grades.csv to non-consolidated.
+  -> Moving TO_SORT_IFL_Grade_Oct_17_2022_EHSS_09_Final_Grades_17_Oct_2022_Grades.csv to consolidated.
+  -> Moving 18_April_2022_Final_Grades_IEAP_3G_FINAL_Grades_Grades.csv to non-consolidated.
+  -> Moving 15_May_2023_B_term_Final_Grades_copy_Done_EHSS_04_Final_Grades_15_May_2023.csv to non-consolidated.
+  -> Moving IFL_November_2022_Final_Grades_EHSS_03_Final_Grades_Grades.csv to non-consolidated.
+  -> Moving 7_August_2023_(B)_Final_Grades_GESL_01_FOUR_2023T2BT2E_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_EHSS_7C_VEN_231009E_T3AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 22_Aug_2022_B_term_grades_copy_EHSS_03_(22_August_2022_B_term_final_grades).csv to consolidated.
+  -> Skipping EHSS_Term_01_October_2019_Format_on_Board_1_6_(2).csv (has 16 columns).
+  -> Moving 03_April_2024_Final_Grades_A_GESL_02_FOUR_240403E_T2AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_EHSS_03_PRO_240109E_T1AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 28_June_2021_Grades_copy_EHSS_04_3D_2021T2T2E_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_Done_COMPLETE_EHSS_2_Final_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_Done_IEAP_3_Final_Grades_9_Jan_2024.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_Done_Complete_EHSS_09B_Final_Grades_03_April_2024_(A).csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_Done_EHSS_8A_Final_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_Done_GESL_2_Final_Grades_9_Jan_2024.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_EHSS_07B_R_240109E_T1AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 6_November_2023_B_Term_Final_Grades_DONE_EHSS_04_Final_Grades.csv to non-consolidated.
+  -> Moving 23_May_2022_Final_Grades_PREB2_FINAL_Grades_Pre_B2.csv to consolidated.
+  -> Moving 5_Feb_2024_Grades_B_Term_Done_Completed_GESL_4_Final_Grades_5_Feb_2024.csv to non-consolidated.
+  -> Moving 15_May_2023_B_term_Final_Grades_copy_Done_EHSS_01_Final_Grades.csv to non-consolidated.
+  -> Moving 6_November_2023_B_Term_Final_Grades_EHSS_02_VEN_231106E_T4BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 6_May_2024_B_term_Final_Grades_Done_Complete_EHSS_05_Final_Grades_5_May_2024.csv to non-consolidated.
+  -> Skipping 17_Feb_2023_B_term_Final_Grades_IEAP_Beg_17_Feb_B_Term_Final_Grades_Beginner.csv (has 19 columns).
+  -> Moving 19_April_2023_A_term_Final_Grades_EHSS_11_R_2023T3E_Grades_Grades.csv to non-consolidated.
+  -> Moving 5_Feb_2024_Grades_B_Term_GESL_04_ENGL_240205E_T3BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_Done_Complete_EHSS_07C_Final_Results_03_April_2024_(A).csv to non-consolidated.
+  -> Moving TO_SORT_IFL_Grade_Oct_17_2022_EHSS_12_Final_Grades_17_Oct_2022_calculating.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_Done_EHSS_8_Final_Grades_17_July_2023.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_Done_EHSS_8A_Final_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_Done_Complete_EHSS_01_Final_Grades_3_April_2024.csv to non-consolidated.
+  -> Skipping January_2023_A_Final_Grades_copy_EHSS_04_Grades_EHSS_4.csv (has 18 columns).
+  -> Moving 28_June_2021_Grades_copy_EHSS_02_3D_2021T2T2E_Grades_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_Done_Complete_IEAP_2_Final_Results_03_April_2024_(A).csv to non-consolidated.
+  -> Moving 16_January_2023_A_Term_Final_Grades_IEAP_4G_2023T1E_Grades_Grades.csv to non-consolidated.
+  -> Moving IFL_July_2022_term_A_EHSS_2_final_grades_July_2022_FINAL_Grades.csv to consolidated.
+  -> Moving 18_April_2022_Final_Grades_IEAP_Pre_Beg_18_April_2022_final_results_Grades.csv to non-consolidated.
+  -> Moving 03_April_2024_Final_Grades_A_IEAP_PW_240403E_T2AE_Grades_Grades.csv to non-consolidated.
+  -> Moving TO_SORT_IFL_Grade_Oct_17_2022_EHSS_7B_Final_Grades_17_Oct_2022_Grades.csv to non-consolidated.
+  -> Moving TO_SORT_IFL_July_2022_term_A_2_EHSS_11_FINAL_Grades.csv to consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_IEAP_BW_2023T3E_Grades_Grades.csv to non-consolidated.
+  -> Moving TO_SORT_IFL_Grade_Oct_17_2022_IEAP_3_Final_Grades_17_Oct_2022_calculating.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_EHSS_08A_VEN_2023T3E_Grades_Grades.csv to non-consolidated.
+  -> Moving 22_Aug_2022_B_term_grades_copy_EHSS_12_(grades_for_22_August_2022_B_term)_Grades.csv to non-consolidated.
+  -> Moving January_2023_A_Final_Grades_copy_GESL_01_January_2023_Term_A_Final_Grades_Four.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_EHSS_7A_R_231009E_T3AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 15_May_2023_B_term_Final_Grades_copy_EHSS_04_VEN_2023T4E_Grades_Grades.csv to non-consolidated.
+  -> Moving IEAP_4W_240403E_T2AE_Grades_Grades.csv to non-consolidated.
+  -> Moving IFL_July_2022_term_A_EHSS_2_final_grades_July_2022_Grades.csv to non-consolidated.
+  -> Moving January_2023_A_Final_Grades_copy_GESL_PB1_Grades_Grades.csv to non-consolidated.
+  -> Moving 28_June_2021_Grades_copy_EHSS_11_3D_2021T2T2E_Grades_Grades.csv to non-consolidated.
+  -> Moving 22_Aug_2022_B_term_grades_copy_EHSS_1_(22_August_2022_final_grades)_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_Done_EHSS_3_Final_Grades.csv to non-consolidated.
+  -> Moving 6_May_2024_B_term_Final_Grades_EHSS_07_VEN_240506E_T2BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_Done_GESL_05_Final_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_EHSS_07A_VEN_240109E_T1AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 18_April_2022_Final_Grades_EHSS_10_Final_Grades.csv to consolidated.
+  -> Moving IFL_July_2022_term_A_IEAP_3_final_grades_July_2022_FINAL_Grades.csv to consolidated.
+  -> Moving January_2023_A_Final_Grades_copy_EHSS_05_January_23_Final_Grades_EHSS_5.csv to non-consolidated.
+  -> Moving January_2023_A_Final_Grades_copy_EHSS_06_January_2023_Final_Grades_Grades.csv to non-consolidated.
+  -> Moving 15_May_2023_B_term_Final_Grades_copy_IEAP_BW_2023T4E_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_Done_COMPLETE_IEAP_1_Final_Grades.csv to non-consolidated.
+  -> Moving 28_June_2021_Grades_copy_IEAP_4_final_28_06_21.csv to consolidated.
+  -> Moving 03_April_2024_Final_Grades_A_EHSS_11_R_240403E_T2AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 6_November_2023_B_Term_Final_Grades_GESL_02_COMM_231106E_T4BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_Done_EHSS_7B_Final_Grades_17_July_2023.csv to non-consolidated.
+  -> Moving 5_Feb_2024_Grades_B_Term_EHSS_08_R_240205E_T3BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 5_Feb_2024_Grades_B_Term_Done_EHSS_5_Final_Grades.csv to non-consolidated.
+  -> Moving 15_May_2023_B_term_Final_Grades_copy_EHSS_04_PRO_2023T4E_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_Done_COMPLETE_IEAP_4_Final_Grades_9_October_2023.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_EHSS_9_R_231009E_T3AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 15_May_2023_B_term_Final_Grades_copy_EHSS_07_CONV_2023T4E_Grades_Grades.csv to consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_EHSS_07_R_2023T3E_Grades_Grades.csv to non-consolidated.
+  -> Moving 03_April_2024_Final_Grades_A_EHSS_06_R_240403E_T2AE_Grades_Grades.csv to non-consolidated.
+  -> Moving January_2023_A_Final_Grades_copy_EHSS_09_Grades_EHSS_9.csv to non-consolidated.
+  -> Moving 23_May_2022_Final_Grades_EHSS_04_FINAL_Grades_EHSS_4.csv to consolidated.
+  -> Moving 7_August_2023_(B)_Final_Grades_EHSS_07A_R_2023T2BT2E_Grades_Grades.csv to non-consolidated.
+  -> Moving 5_Feb_2024_Grades_B_Term_Done_Completed_EHSS_1_Final_Grades_5_Feb_2024.csv to non-consolidated.
+  -> Moving 6_November_2023_B_Term_Final_Grades_DONE_PREB2_Final_Grades.csv to non-consolidated.
+  -> Moving IFL_July_2022_term_A_IEAP_1_final_grades_July_2022_FINAL_Grades.csv to consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_EHSS_11_R_231009E_T3AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_Done_GESL_1_Final_Grades_17_July_2023.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_Done_COMPLETE_PREB2_Final_Grades.csv to non-consolidated.
+  -> Moving 03_April_2024_Final_Grades_A_EHSS_08A_R_240403E_T2AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 03_April_2024_Final_Grades_A_IEAP_2G_240403E_T2AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_Done_GESL_4_Final_Grades.csv to non-consolidated.
+  -> Moving 28_June_2021_Grades_copy_EHSS_07_2D_2021T2T2E_Grades_Grades.csv to non-consolidated.
+  -> Moving 18_April_2022_Final_Grades_EHSS_02_FINAL_Grades_Grades.csv to non-consolidated.
+  -> Moving 6_November_2023_B_Term_Final_Grades_GESL_02_FOUR_231106E_T4BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 03_April_2024_Final_Grades_A_EHSS_09B_VEN_240403E_T2AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_Done_EHSS_12_Final_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_IEAP_3G_2023T1ET1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_Feb_2023_B_term_Final_Grades_EHSS_PreB2_17_Feb_B_Term_Final_Grades_Grades.csv to non-consolidated.
+  -> Moving January_2023_A_Final_Grades_copy_EHSS_08_January_2023_Final_Grades_revised_Grades.csv to non-consolidated.
+  -> Moving 5_Feb_2024_Grades_B_Term_Done_EHSS_1_Final_Grades.csv to non-consolidated.
+  -> Moving 16_January_2023_A_Term_Final_Grades_IEAP_3G_2023T1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 22_Aug_2022_B_term_grades_copy_EHSS_04_(22_August_B_term_final_grades).csv to consolidated.
+  -> Moving 6_May_2024_B_term_Final_Grades_EHSS_01_VEN_240506E_T2BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_Done_GESL_01_Final_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_EHSS_08B_R_2023T3E_Grades_Grades.csv to non-consolidated.
+  -> Moving IEAP_Term_01_October_2019_IEAP_1_4.csv to non-consolidated.
+  -> Moving 16_January_2023_A_Term_Final_Grades_GESL_PB2_STEP_2023T1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 6_November_2023_B_Term_Final_Grades_EHSS_04_VEN_231106E_T4BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 28_June_2021_Grades_copy_EHSS_01_2D_2021T2T2E_Grades_Grades.csv to non-consolidated.
+  -> Moving 7_August_2023_(B)_Final_Grades_EHSS_03_VEN_2023T2BT2E_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_Done_COMPLETE_EHSS_1_Final_Grades_9_October_2023.csv to non-consolidated.
+  -> Moving 28_June_2021_Grades_copy_GESL_PB2_3D_2021T2T2E_Grades_Grades.csv to non-consolidated.
+  -> Moving 16_January_2023_A_Term_Final_Grades_EHSS_07B_R_2023T1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 18_April_2022_Final_Grades_IEAP_1G_FINAL_Grades.csv to consolidated.
+  -> Moving 6_May_2024_B_term_Final_Grades_GESL_05_FOUR_240506E_T2BE_Grades_Grades.csv to non-consolidated.
+  -> Skipping TO_SORT_2023T1E_Done_EHSS_07B_Grades_m.csv (has 17 columns).
+  -> Moving 19_April_2023_A_term_Final_Grades_Done_IEAP_P_Final_Grades.csv to non-consolidated.
+  -> Skipping IFL_July_2022_term_A_IEAP_BG_2022T1T1E_Grades_rev._1_FINAL_Grades.csv (has 12 columns).
+  -> Moving 16_January_2023_A_Term_Final_Grades_EHSS_05_VEN_2023T1E_Grades_Grades.csv to non-consolidated.
+  -> Moving TO_SORT_IFL_Grade_Oct_17_2022_EHSS_05_Final_Grades_17_Oct_2022_Grades.csv to non-consolidated.
+  -> Moving 17_Feb_2023_B_term_Final_Grades_IEAP_Pre_B_17_Feb_B_Term_Final_Grades_Pre_Beginner.csv to non-consolidated.
+  -> Moving 6_November_2023_B_Term_Final_Grades_PREB2_STEP_231106E_T4BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_Done_IEAP_2_Final_Grades.csv to non-consolidated.
+  -> Skipping 5_Feb_2024_Grades_B_Term_EHSS_08_CONV_240205E_T3BE_Grades_Grades.csv (has 12 columns).
+  -> Moving 9_January_2024_Final_Grades_copy_IEAP_1W_240109E_T1AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_EHSS_05_PRO_240109E_T1AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_Done_IEAP_4_Final_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_IEAP_4G_240109E_T1AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 15_May_2023_B_term_Final_Grades_copy_Done_EHSS_05_Final_Grades.csv to non-consolidated.
+  -> Moving 16_January_2023_A_Term_Final_Grades_GESL_PB1_SMART_2023T1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_Done_IEAP_B_Final_Grades.csv to non-consolidated.
+  -> Moving 6_May_2024_B_term_Final_Grades_Done_EHSS_08_Final_Grades.csv to non-consolidated.
+  -> Moving 16_January_2023_A_Term_Final_Grades_EHSS_05_PRO_2023T1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 03_April_2024_Final_Grades_A_GESL_02_COMM_240403E_T2AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 03_April_2024_Final_Grades_A_EHSS_01_PRO_240403E_T2AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_EHSS_03_PRO_2023T1ET1E_Grades_Grades.csv to non-consolidated.
+  -> Skipping 9_Oct_2023_(A)_Final_Grades_copy_EHSS_8B_COMP_231009E_T3AE_Grades_Grades.csv (has 12 columns).
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_Done_COMPLETE_EHSS_11_Final_Grades.csv to non-consolidated.
+  -> Moving 6_November_2023_B_Term_Final_Grades_DONE_COMPLETE_EHSS_08_9_Nov_2023_B_Final_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_Done_Complete_EHSS_04_Final_Grades_03_April_2024.csv to non-consolidated.
+  -> Moving 17_Feb_2023_B_term_Final_Grades_EHSS_02_17_Feb_2023_Term_B_Final_Grades_EHSS_2.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_EHSS_02_VEN_240109E_T1AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 7_August_2023_(B)_Final_Grades_Done_IEAP_02_Final_Grades_7_Aug_2023_Term_B.csv to non-consolidated.
+  -> Moving EHSS_Term_01_October_2019_Format_on_Board_EHSS_7&above.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_IEAP_PG_2023T1ET1E_Grades_Grades.csv to non-consolidated.
+  -> Moving January_2023_A_Final_Grades_copy_IEAP_01_January_2023_Final_Grades_IEAP_1.csv to non-consolidated.
+  -> Moving IFL_July_2022_term_A_IEAP_4_July_2022_A_term_final_grades_FINAL_Grades.csv to consolidated.
+  -> Moving 03_April_2024_Final_Grades_A_GESL_01_FOUR_240403E_T2AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 03_April_2024_Final_Grades_A_EHSS_06_VEN_240403E_T2AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 23_May_2022_Final_Grades_EHSS_01_FINAL_Grades_Grades.csv to non-consolidated.
+  -> Skipping 9_Oct_2023_(A)_Final_Grades_copy_EHSS_7C_COMP_231009E_T3AE_Grades_Grades.csv (has 12 columns).
+  -> Moving 6_May_2024_B_term_Final_Grades_Done_Complete_PREB2_Final_Grades_5_May_2024.csv to non-consolidated.
+  -> Moving 15_May_2023_B_term_Final_Grades_copy_Done_IEAP_4_Final_Grades_15_May_2023.csv to non-consolidated.
+  -> Skipping January_2023_A_Final_Grades_copy_IEAP_Pre_Beginner_January_2023_Final_Grades_Pre_Beginner.csv (has 19 columns).
+  -> Skipping January_2023_A_Final_Grades_copy_EHSS_10_Grades_EHSS_10.csv (has 18 columns).
+  -> Moving 9_January_2024_Final_Grades_copy_EHSS_08B_R_240109E_T1AE_Grades_Grades.csv to non-consolidated.
+  -> Skipping TO_SORT_2023T1E_Done_IEAP_BEG_Grades_m.csv (has 18 columns).
+  -> Moving January_2023_A_Final_Grades_copy_EHSS_02_Grades_(1)_Grades.csv to non-consolidated.
+  -> Moving 16_January_2023_A_Term_Final_Grades_IEAP_BW_2023T1E_Grades_Grades.csv to non-consolidated.
+  -> Skipping TO_SORT_2023T1E_Done_IEAP_PREBEG_Grades_m.csv (has 18 columns).
+  -> Moving 15_May_2023_B_term_Final_Grades_copy_Done_IEAP_4_Final_Grades.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_GESL_3_FOUR_231009E_T3AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_EHSS_12_R_2023T1ET1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 5_Feb_2024_Grades_B_Term_EHSS_01_VEN_240205E_T3BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_EHSS_09_VEN_240109E_T1AE_Grades_Grades.csv to non-consolidated.
+  -> Moving IFL_November_2022_Final_Grades_IEAP_3_Final_Grades_IEAP_3_Result.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_Done_IEAP_3_Final_Grades.csv to non-consolidated.
+  -> Moving January_2023_A_Final_Grades_copy_IEAP_01_January_2023_Final_Grades_Grades.csv to non-consolidated.
+  -> Moving 28_June_2021_Grades_copy_EHSS_01_final_28_06_21.csv to consolidated.
+  -> Moving 7_August_2023_(B)_Final_Grades_Done_EHSS_04_Final_Grades.csv to non-consolidated.
+  -> Moving 03_April_2024_Final_Grades_A_IEAP_2W_240403E_T2AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_Done_EHSS_12_Final_Grades_17_July_2023.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_Done_Complete_EHSS_11_Final_Grades_03_April_2024_(A).csv to non-consolidated.
+  -> Moving January_2023_A_Final_Grades_copy_IEAP_03_January_2023_Term_A_Final_Grades_Sheet2.csv to non-consolidated.
+  -> Moving January_2023_A_Final_Grades_copy_EHSS_11_January_2023_A_Final_Grades_EHSS_11.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_GESL_PB2_STEP_2023T3E_Grades_Grades.csv to non-consolidated.
+  -> Skipping 6_May_2024_B_term_Final_Grades_EHSS_08_CONV_240506E_T2BE_Grades_Grades.csv (has 12 columns).
+  -> Moving 15_May_2023_B_term_Final_Grades_copy_IEAP_4G_2023T4E_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_EHSS_1_VEN_231009E_T3AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 6_November_2023_B_Term_Final_Grades_EHSS_03_PRO_231106E_T4BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_Done_IEAP_3_Final_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_EHSS_10_R_240109E_T1AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_Done_GESL_PB2_Final_Grades.csv to non-consolidated.
+  -> Moving IFL_November_2022_Final_Grades_EHSS_08_Final_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_EHSS_12_W_240109E_T1AE_Grades_Grades.csv to non-consolidated.
+  -> Moving January_2023_A_Final_Grades_copy_EHSS_10_January_2023_Final_Grades_Grades.csv to non-consolidated.
+  -> Moving 5_Feb_2024_Grades_B_Term_Done_Completed_EHSS_4_Final_Grades_5_Feb_2024.csv to non-consolidated.
+  -> Skipping 5_Feb_2024_Grades_B_Term_EHSS_07_CONV_240205E_T3BE_Grades_Grades.csv (has 12 columns).
+  -> Moving 16_January_2023_A_Term_Final_Grades_EHSS_08A_R_2023T1E_Grades_Grades.csv to non-consolidated.
+  -> Moving GESL_03_ENGL_240708E_T3AE_Grades_(2)_Grades.csv to non-consolidated.
+  -> Moving 28_June_2021_Grades_copy_IEAP_2W_2021T2T2E_Grades_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_Done_EHSS_06_Final_Grades.csv to non-consolidated.
+  -> Moving 7_August_2023_(B)_Final_Grades_Done_EHSS_07B_Final_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_EHSS_09A_R_2023T3E_Grades_Grades.csv to non-consolidated.
+  -> Moving January_2023_A_Final_Grades_copy_EHSS_01_January_23_Term_A_Final_Grades_EHSS_1.csv to non-consolidated.
+  -> Moving 6_May_2024_B_term_Final_Grades_EHSS_08_R_240506E_T2BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_IEAP_4W_240109E_T1AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_EHSS_9B_R_2023T1ET1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_Done_GESL_3_Final_Grades.csv to non-consolidated.
+  -> Moving 7_August_2023_(B)_Final_Grades_EHSS_03_PRO_2023T2BT2E_Grades_Grades.csv to non-consolidated.
+  -> Moving 6_May_2024_B_term_Final_Grades_Done_EHSS_03_Final_Grades.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_Done_GESL_3_Final_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_IEAP_1G_240109E_T1AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 15_May_2023_B_term_Final_Grades_copy_EHSS_03_PRO_2023T4E_Grades_Grades.csv to non-consolidated.
+  -> Skipping 7_August_2023_(B)_Final_Grades_EHSS_09_CONV_2023T2BT2E_Grades_Grades.csv (has 12 columns).
+  -> Moving IEAP_4_Final_Grades_3_April_2024_(1).csv to non-consolidated.
+  -> Moving TO_SORT_IFL_July_2022_term_A_2_EHSS_11_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_Done_EHSS_10_Final_Grades_9_Jan_2024.csv to non-consolidated.
+  -> Moving TO_SORT_IFL_Grade_Oct_17_2022_EHSS_7A_Final_Grades_17_Oct_2022_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_GESL_04_FOUR_240109E_T1AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_EHSS_10_W_2023T3E_Grades_Grades.csv to non-consolidated.
+  -> Moving TO_SORT_IFL_November_2022_Final_Grades_2_IEAP_4_Final_Grades_IEAP_4_Result.csv to non-consolidated.
+  -> Moving 7_August_2023_(B)_Final_Grades_Done_EHSS_04_Final_Grades_7_Aug_2023_Term_B.csv to non-consolidated.
+  -> Skipping January_08,_2020_IEAP_Term_08_January_2020_FINAL_IEAP_Pre_&_Beginner.csv (has 18 columns).
+  -> Moving IFL_November_2022_Final_Grades_IEAP_3_Final_Grades_Grades.csv to non-consolidated.
+  -> Moving 7_August_2023_(B)_Final_Grades_Done_IEAP_01_Final_Grades.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_PREB2_SMART_231009E_T3AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_Done_EHSS_07B_Final_Grades.csv to non-consolidated.
+  -> Skipping IFL_July_2022_term_A_EHSS_1_final_grades_July_2022_FINAL_Grades.csv (has 11 columns).
+  -> Moving January_2023_A_Final_Grades_copy_EHSS_Pre_B2_Jan_2023_A_Term_Final_Grades_Pre_B2.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_EHSS_07_VEN_2023T3E_Grades_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_GESL_02_COMM_2023T3E_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_Done_IEAP_2_Final_Grades_17_July_2023.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_EHSS_03_VEN_2023T1ET1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_Done_COMPLETE_EHSS_4_Final_Grades_9_October_2023.csv to non-consolidated.
+  -> Moving 16_January_2023_A_Term_Final_Grades_EHSS_10_W_2023T1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_Feb_2023_B_term_Final_Grades_EHSS_05_17_Feb_2023_Term_B_Final_Grades_Grades.csv to non-consolidated.
+  -> Moving 6_May_2024_B_term_Final_Grades_Done_Complete_IEAP_1_Final_Grades_May_2024_B_term.csv to non-consolidated.
+  -> Moving 28_June_2021_Grades_copy_EHSS_11_final_28_06_21.csv to consolidated.
+  -> Moving 16_January_2023_A_Term_Final_Grades_EHSS_08A_VEN_2023T1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 15_May_2023_B_term_Final_Grades_copy_EHSS_03_VEN_2023T4E_Grades_Grades.csv to non-consolidated.
+  -> Moving January_2023_A_Final_Grades_copy_IEAP_Pre_Beginner_January_2023_Final_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_EHSS_8A_R_231009E_T3AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 6_November_2023_B_Term_Final_Grades_DONE_COMPLETE_EHSS_04_9_Nov_2023_B_Final_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_IEAP_4AG_2023T3E_Grades_Grades.csv to non-consolidated.
+  -> Moving 7_August_2023_(B)_Final_Grades_Done_EHSS_01_Final_Grades_7_Aug_2023_Term_B.csv to non-consolidated.
+  -> Moving January_2023_A_Final_Grades_copy_EHSS_07B_Grades_Grades.csv to non-consolidated.
+  -> Moving 6_May_2024_B_term_Final_Grades_GESL_01_FOUR_240506E_T2BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_EHSS_08B_VEN_240109E_T1AE_Grades_Grades.csv to non-consolidated.
+  -> Moving TO_SORT_IFL_Grade_Oct_17_2022_EHSS_10_Final_Grades_17_Oct_2022_calculating.csv to non-consolidated.
+  -> Moving 6_May_2024_B_term_Final_Grades_PREB2_STEP_240506E_T2BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_Done_COMPLETE_GESL_2_Final_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_Done_EHSS_9A_Final_Grades.csv to non-consolidated.
+  -> Moving 15_May_2023_B_term_Final_Grades_copy_IEAP_1G_2023T4E_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_GESL_4_COMM_231009E_T3AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 15_May_2023_B_term_Final_Grades_copy_Done_IEAP_BEG_Final_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_Done_EHSS_3_Final_Grades_17_July_2023.csv to non-consolidated.
+  -> Moving TO_SORT_IFL_Grade_Oct_17_2022_EHSS_01_Final_Grades_17_Oct_2022_Grades.csv to non-consolidated.
+  -> Moving 6_May_2024_B_term_Final_Grades_EHSS_03_PRO_240506E_T2BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 5_Feb_2024_Grades_B_Term_Done_EHSS_10_Final_Grades.csv to non-consolidated.
+  -> Moving 28_June_2021_Grades_copy_GESL_PB2_2D_2021T2T2E_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_Done_EHSS_1_Final_Grades_9_Jan_2024.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_Done_Complete_EHSS_06_Final_Grades_03_April_2024_(A).csv to non-consolidated.
+  -> Moving 23_May_2022_Final_Grades_IEAP_Beginner_FINAL_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_Done_GESL_2_Final_Grades_17_July_2023.csv to non-consolidated.
+  -> Skipping 16_January_2023_A_Term_Final_Grades_EHSS_09_COMP_2023T1E_Grades_Grades.csv (has 12 columns).
+  -> Moving 18_April_2022_Final_Grades_EHSS_04_Final_Grades_Grades.csv to non-consolidated.
+  -> Moving 16_January_2023_A_Term_Final_Grades_EHSS_08B_R_2023T1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 7_August_2023_(B)_Final_Grades_EHSS_09_VEN_2023T2BT2E_Grades_Grades.csv to non-consolidated.
+  -> Moving 5_Feb_2024_Grades_B_Term_Done_Completed_EHSS_7_Final_Grades_5_Feb_2024.csv to non-consolidated.
+  -> Moving 28_June_2021_Grades_copy_EHSS_01_3D_2021T2T2E_Grades_Grades.csv to non-consolidated.
+  -> Skipping 9_Oct_2023_(A)_Final_Grades_copy_EHSS_9_COMP_231009E_T3AE_Grades_Grades.csv (has 12 columns).
+  -> Moving 03_April_2024_Final_Grades_A_GESL_06_COMM_240403E_T2AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 15_May_2023_B_term_Final_Grades_copy_Done_EHSS_02_Final_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_Done_IEAP_3_Final_Grades.csv to non-consolidated.
+  -> Moving TO_SORT_IFL_Grade_Oct_17_2022_IEAP_3_Final_Grades_17_Oct_2022_Grades.csv to non-consolidated.
+  -> Moving 6_November_2023_B_Term_Final_Grades_DONE_EHSS_07_Final_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_IEAP_1G_2023T3E_Grades_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_Done_Complete_GESL_03_Final_Grades_03_April_2024_(A).csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_Done_EHSS_8B_Final_Grades.csv to non-consolidated.
+  -> Skipping TO_SORT_2023T1E_Done_IEAP_2_Grades_m.csv (has 18 columns).
+  -> Moving 03_April_2024_Final_Grades_A_EHSS_11_W_240403E_T2AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 15_May_2023_B_term_Final_Grades_copy_Done_EHSS_08_Final_Grades_15_May_2023.csv to non-consolidated.
+  -> Moving 6_November_2023_B_Term_Final_Grades_DONE_IEAP_02_Final_Grades.csv to non-consolidated.
+  -> Moving 7_August_2023_(B)_Final_Grades_Done_EHSS_08_Final_Grades.csv to non-consolidated.
+  -> Moving 15_May_2023_B_term_Final_Grades_copy_Done_EHSS_06_Final_Grades_15_May_2023.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_Done_EHSS_12_Final_Results_03_April_2024_(A).csv to non-consolidated.
+  -> Moving 6_May_2024_B_term_Final_Grades_Done_EHSS_10_Final_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_GESL_02_COMM_2023T1ET1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 23_May_2022_Final_Grades_IEAP_2_FINAL_Grades_IEAP_2.csv to consolidated.
+  -> Moving 6_May_2024_B_term_Final_Grades_EHSS_06_R_240506E_T2BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 16_January_2023_A_Term_Final_Grades_EHSS_06_PRO_2023T1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 23_May_2022_Final_Grades_IEAP_Beginner_FINAL_Grades_Beginner.csv to consolidated.
+  -> Moving 03_April_2024_Final_Grades_A_EHSS_03_VEN_240403E_T2AE_Grades_Grades.csv to non-consolidated.
+  -> Skipping 5_Feb_2024_Grades_B_Term_EHSS_09_COMP_240205E_T3BE_Grades_Grades.csv (has 12 columns).
+  -> Moving 9_January_2024_Final_Grades_copy_Done_GESL_3_Final_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_EHSS_09B_R_2023T3E_Grades_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_IEAP_4BW_2023T3E_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_Done_EHSS_8B_Final_Grades.csv to non-consolidated.
+  -> Moving TO_SORT_IFL_Grade_Oct_17_2022_EHSS_04_Final_Grade_17_Oct_2022_calculating.csv to non-consolidated.
+  -> Moving TO_SORT_IFL_Grade_Oct_17_2022_EHSS_12_Final_Grades_17_Oct_2022_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_GESL_03_COMM_240109E_T1AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_Done_PREB2_Final_Grades.csv to non-consolidated.
+  -> Moving 28_June_2021_Grades_copy_IEAP3_final_28_06_21.csv to consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_IEAP_2W_2023T3E_Grades_Grades.csv to non-consolidated.
+  -> Moving 6_November_2023_B_Term_Final_Grades_DONE_COMPLETE_IEAP_02_9_Nov_2023_B_Final_Grades.csv to non-consolidated.
+  -> Moving 18_April_2022_Final_Grades_EHSS_08_Final_Grades_18_April_2022.csv to consolidated.
+  -> Moving January_2023_A_Final_Grades_copy_GESL_01_Grades_Common.csv to non-consolidated.
+  -> Moving January_2023_A_Final_Grades_copy_IEAP_3W_2023T1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_EHSS_4_VEN_231009E_T3AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 5_Feb_2024_Grades_B_Term_Done_EHSS_6_Final_Grades.csv to non-consolidated.
+  -> Moving 18_April_2022_Final_Grades_IEAP_1G_FINAL_Grades_Grades.csv to non-consolidated.
+  -> Moving 28_June_2021_Grades_copy_EHSS_07_3D_2021T2T2E_Grades_Grades.csv to non-consolidated.
+  -> Moving 16_January_2023_A_Term_Final_Grades_EHSS_06_VEN_2023T1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 6_May_2024_B_term_Final_Grades_Done_IEAP_4_Final_Grades.csv to non-consolidated.
+  -> Moving January_2023_A_Final_Grades_copy_EHSS_03_Grades_Grades.csv to non-consolidated.
+  -> Skipping 7_August_2023_(B)_Final_Grades_EHSS_07B_COMP_2023T2BT2E_Grades_Grades.csv (has 12 columns).
+  -> Moving 19_April_2023_A_term_Final_Grades_Done_GESL_06_Final_Grades.csv to non-consolidated.
+  -> Moving TO_SORT_IFL_Grade_Oct_17_2022_IEAP_1_Final_Grades_17_Oct_2022_calculating.csv to non-consolidated.
+  -> Moving 5_Feb_2024_Grades_B_Term_EHSS_04_VEN_240205E_T3BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_EHSS_7C_R_231009E_T3AE_Grades_Grades.csv to non-consolidated.
+  -> Skipping 03_April_2024_Final_Grades_A_EHSS_07B_COMP_240403E_T2AE_Grades_Grades.csv (has 12 columns).
+  -> Moving 19_April_2023_A_term_Final_Grades_Done_EHSS_01_Final_Grades.csv to non-consolidated.
+  -> Moving 18_April_2022_Final_Grades_EHSS_02_final_grades_18_April_2022.csv to consolidated.
+  -> Moving 5_Feb_2024_Grades_B_Term_EHSS_03_PRO_240205E_T3BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_Done_EHSS_11_Final_Grades_17_July_2023.csv to non-consolidated.
+  -> Moving IFL_July_2022_term_A_EHSS_6_final_grades_July_2022_Grades.csv to non-consolidated.
+  -> Moving 15_May_2023_B_term_Final_Grades_copy_GESL_PB2_SMART_2023T4E_Grades_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_Done_Complete_EHSS_09A_Final_Grades_03_April_2024_(A).csv to non-consolidated.
+  -> Moving 17_Feb_2023_B_term_Final_Grades_EHSS_06_17_Feb_2023_Term_B_Final_Grades_EHSS_6.csv to non-consolidated.
+  -> Moving 03_April_2024_Final_Grades_A_EHSS_07C_R_240403E_T2AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_Done_EHSS_4_Final_Grades_9_Jan_2024.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_Done_GESL_4_Final_Grades.csv to non-consolidated.
+  -> Moving 6_May_2024_B_term_Final_Grades_Done_EHSS_04_Final_Grades.csv to non-consolidated.
+  -> Moving 7_August_2023_(B)_Final_Grades_GESL_01_COMM_2023T2BT2E_Grades_Grades.csv to non-consolidated.
+  -> Moving 5_Feb_2024_Grades_B_Term_Done_Completed_EHSS_2_Final_Grades_5_Feb_2024.csv to non-consolidated.
+  -> Moving 6_November_2023_B_Term_Final_Grades_EHSS_01_VEN_231106E_T4BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_EHSS_3_PRO_231009E_T3AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 15_May_2023_B_term_Final_Grades_copy_EHSS_08_CONV_2023T4E_Grades_Grades.csv to consolidated.
+  -> Skipping 9_January_2024_Final_Grades_copy_EHSS_07A_COMP_240109E_T1AE_Grades_Grades.csv (has 12 columns).
+  -> Moving GESL_Term_01_July_01_October_2019_copy.csv to consolidated.
+  -> Moving 7_August_2023_(B)_Final_Grades_GESL_PB2_STEP_2023T2BT2E_Grades_Grades.csv to non-consolidated.
+  -> Moving TO_SORT_IFL_November_2022_Final_Grades_2_IEAP_4_Final_Grades_Grades.csv to non-consolidated.
+  -> Moving 18_April_2022_Final_Grades_EHSS_07_Final_Grades.csv to consolidated.
+  -> Moving 03_April_2024_Final_Grades_A_EHSS_04_PRO_240403E_T2AE_Grades_Grades.csv to non-consolidated.
+  -> Skipping January_2023_A_Final_Grades_copy_EHSS_11_Grades_EHSS_11.csv (has 19 columns).
+  -> Moving 19_April_2023_A_term_Final_Grades_EHSS_08A_R_2023T3E_Grades_Grades.csv to non-consolidated.
+  -> Moving 28_June_2021_Grades_copy_IEAP_3W_2021T2T2E_Grades_Grades.csv to non-consolidated.
+  -> Moving January_2023_A_Final_Grades_copy_IEAP_04_January_2023_Final_Grades_Grades.csv to non-consolidated.
+  -> Moving IFL_July_2022_term_A_EHSS_PreB2_final_grades_July_2022_FINAL_Grades.csv to consolidated.
+  -> Moving 6_May_2024_B_term_Final_Grades_Done_Complete_GESL_02_Final_Grades_5_May_2024.csv to non-consolidated.
+  -> Moving 18_April_2022_Final_Grades_IEAP_4_Final_Grades_18_April_2022_term.csv to consolidated.
+  -> Moving 15_May_2023_B_term_Final_Grades_copy_Done_EHSS_07A_Final_Grades_15_May_2023.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_Done_IEAP_1_Final_Grades_17_July_2023.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_EHSS_04_VEN_2023T3E_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_IEAP_4W_2023T1ET1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_Done_Complete_GESL_04_Final_Results_03_April_2024_(A).csv to non-consolidated.
+  -> Moving 03_April_2024_Final_Grades_A_PRE_B2_STEP_240403E_T2AE_Grades_Grades.csv to non-consolidated.
+  -> Moving January_2023_A_Final_Grades_copy_GESL_Pre_B1_Jan_2023_A_Final_Grades_Pre_B1.csv to non-consolidated.
+  -> Moving 5_Feb_2024_Grades_B_Term_Done_Completed_PREB2_Final_Grades_5_Feb_2024.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_EHSS_07B_VEN_240109E_T1AE_Grades_Grades.csv to non-consolidated.
+  -> Moving IFL_November_2022_Final_Grades_IEAP_2_Final_Grades_IEAP_2_Result.csv to non-consolidated.
+  -> Moving 16_January_2023_A_Term_Final_Grades_EHSS_09_VEN_2023T1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 16_January_2023_A_Term_Final_Grades_EHSS_08B_VEN_2023T1E_Grades_Grades.csv to non-consolidated.
+  -> Moving January_2023_A_Final_Grades_copy_IEAP_03_January_2023_Term_A_Final_Grades_W.csv to non-consolidated.
+  -> Moving 16_January_2023_A_Term_Final_Grades_EHSS_07A_R_2023T1E_Grades_Grades.csv to non-consolidated.
+  -> Skipping 18_April_2022_Final_Grades_EHSS_04_Final_Grades_18_April_2022.csv (has 18 columns).
+  -> Moving 28_June_2021_Grades_copy_IEAP_4G_2021T2T2E_Grades_(2)_Grades.csv to non-consolidated.
+  -> Moving 5_Feb_2024_Grades_B_Term_GESL_01_FOUR_240205E_T3BE_Grades_Grades.csv to non-consolidated.
+  -> Moving January_2023_A_Final_Grades_copy_EHSS_08B_Grades_EHSS_8B.csv to non-consolidated.
+  -> Moving January_2023_A_Final_Grades_copy_EHSS_06_Grades_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_EHSS_04_PRO_2023T3E_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_Done_IEAP_4_Final_Grades.csv to non-consolidated.
+  -> Moving 6_May_2024_B_term_Final_Grades_EHSS_04_VEN_240506E_T2BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 23_May_2022_Final_Grades_IEAP_2_FINAL_Grades_Grades.csv to non-consolidated.
+  -> Moving 7_August_2023_(B)_Final_Grades_Done_EHSS_03_Final_Grades.csv to non-consolidated.
+  -> Moving January_2023_A_Final_Grades_copy_GESL_01_Grades_Four.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_Done_IEAP_B_Final_Grades.csv to non-consolidated.
+  -> Moving 22_Aug_2022_B_term_grades_copy_Pre_B2_part_time_(22_Aug_2022_B_term_final_grades).csv to consolidated.
+  -> Moving 6_May_2024_B_term_Final_Grades_Done_Complete_EHSS_01_Final_Grades_May_2024.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_Done_IEAP_4_Final_Grades.csv to non-consolidated.
+  -> Moving IFL_November_2022_Final_Grades_EHSS_01_Final_Grades_Grades.csv to non-consolidated.
+  -> Moving 16_January_2023_A_Term_Final_Grades_IEAP_PW_2023T1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 6_May_2024_B_term_Final_Grades_Done_Complete_EHSS_09_Final_Grades_5_May_2024.csv to non-consolidated.
+  -> Moving 6_May_2024_B_term_Final_Grades_IEAP_4W_240506E_T2BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 6_May_2024_B_term_Final_Grades_EHSS_02_VEN_240506E_T2BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 6_May_2024_B_term_Final_Grades_Done_Complete_GESL_01_Final_Grades_5_May_2024_B.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_EHSS_10_W_240109E_T1AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_Done_COMPLETE_EHSS_7A_Final_Grades_9_October_2023.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_EHSS_12_R_240109E_T1AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 7_August_2023_(B)_Final_Grades_Done_GESL_PB2_Final_Grades.csv to non-consolidated.
+  -> Moving TO_SORT_IFL_Grade_Oct_17_2022_EHSS_08_Final_Grades_17_Oct_2022_calculating.csv to non-consolidated.
+  -> Skipping January_2023_A_Final_Grades_copy_IEAP_04_January_2023_Final_Grades_IEAP_4.csv (has 19 columns).
+  -> Moving 19_April_2023_A_term_Final_Grades_GESL_01_COMM_2023T3E_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_Feb_2023_B_term_Final_Grades_EHSS_01_17_February_2023_Term_B_Final_Grades_EHSS_1.csv to non-consolidated.
+  -> Moving 5_Feb_2024_Grades_B_Term_Done_EHSS_9_Final_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_Done_IEAP_P_Final_Grades_9_Jan_2024.csv to non-consolidated.
+  -> Moving 7_August_2023_(B)_Final_Grades_GESL_PB2_SMART_2023T2BT2E_Grades_Grades.csv to non-consolidated.
+  -> Skipping January_08,_2020_IEAP_Term_08_January_2020_FINAL_IEAP_1_4.csv (has 18 columns).
+  -> Moving 7_August_2023_(B)_Final_Grades_EHSS_08_R_2023T2BT2E_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_Done_IEAP_PRE_Final_Grades_17_July_2023.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_Done_COMPLETE_EHSS_12_Final_Grades.csv to non-consolidated.
+  -> Moving 6_May_2024_B_term_Final_Grades_IEAP_1G_240506E_T2BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 6_May_2024_B_term_Final_Grades_GESL_02_FOUR_240506E_T2BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 7_August_2023_(B)_Final_Grades_EHSS_05_VEN_2023T2BT2E_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_Done_COMPLETE_EHSS_5_Final_Grades_9_October_2023.csv to non-consolidated.
+  -> Moving 03_April_2024_Final_Grades_A_GESL_05_COMM_240403E_T2AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 6_November_2023_B_Term_Final_Grades_DONE_COMPLETE_EHSS_03_9_Nov_2023_B_Final_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_EHSS_9A_R_2023T1ET1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_EHSS_05_PRO_2023T1ET1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_Done_Complete_IEAP_B_Final_Results_03_April_2024_(A).csv to non-consolidated.
+  -> Skipping January_08,_2020_IEAP_Term_08_January_2020_FINAL.csv (has 17 columns).
+  -> Moving 19_April_2023_A_term_Final_Grades_EHSS_12_R_2023T3E_Grades_Grades.csv to non-consolidated.
+  -> Moving 6_May_2024_B_term_Final_Grades_EHSS_09_VEN_240506E_T2BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 6_May_2024_B_term_Final_Grades_Done_Complete_EHSS_06_Final_Grades_5_May_2024.csv to non-consolidated.
+  -> Moving 18_April_2022_Final_Grades_IEAP_Pre_Beg_18_April_2022_final_results_FINAL_Grades.csv to consolidated.
+  -> Moving TO_SORT_IFL_Grade_Oct_17_2022_EHSS_7A_Final_Grades_17_Oct_2022_calculating.csv to non-consolidated.
+  -> Moving 03_April_2024_Final_Grades_A_EHSS_09A_VEN_240403E_T2AE_Grades_Grades.csv to non-consolidated.
+  -> Skipping TO_SORT_2023T1E_Done_EHSS_07A_Grades_m.csv (has 17 columns).
+  -> Moving 28_June_2021_Grades_copy_EHSS_03_final_28_06_21.csv to consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_Done_GESL_1_Final_Grades_9_Jan_2024.csv to non-consolidated.
+  -> Moving 16_January_2023_A_Term_Final_Grades_IEAP_2W_2023T1E_Grades_Grades.csv to non-consolidated.
+  -> Moving TO_SORT_IFL_Grade_Oct_17_2022_EHSS_04_Final_Grade_17_Oct_2022_Grades.csv to non-consolidated.
+  -> Moving 23_May_2022_Final_Grades_EHSS_02_FINAL_Grades_EHSS_2.csv to consolidated.
+  -> Moving 03_April_2024_Final_Grades_A_Done_Complete_Chhouey.csv to consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_Done_EHSS_4_Final_Grades_17_July_2023.csv to non-consolidated.
+  -> Moving 7_August_2023_(B)_Final_Grades_Done_IEAP_02_Final_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_Done_EHSS_3_Final_Grades.csv to non-consolidated.
+  -> Skipping 9_January_2024_Final_Grades_copy_EHSS_08C_COMP_240109E_T1AE_Grades_Grades.csv (has 12 columns).
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_IEAP_1G_231009E_T3AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_Done_EHSS_07A_Final_Grades.csv to non-consolidated.
+  -> Moving 28_June_2021_Grades_copy_EHSS_08_2D_2021T2T2E_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_IEAP_PW_2023T1ET1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_EHSS_11_R_2023T1ET1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 15_May_2023_B_term_Final_Grades_copy_Done_IEAP_BEG_Final_Grades_15_May_2023.csv to non-consolidated.
+  -> Moving 03_April_2024_Final_Grades_A_EHSS_02_PRO_240403E_T2AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 22_Aug_2022_B_term_grades_copy_EHSS_02_(22_Aug_B_term_final_grades)_Grades.csv to non-consolidated.
+  -> Moving 6_November_2023_B_Term_Final_Grades_DONE_EHSS_08_Final_Grades.csv to non-consolidated.
+  -> Moving 15_May_2023_B_term_Final_Grades_copy_EHSS_08_VEN_2023T4E_Grades_Grades.csv to non-consolidated.
+  -> Moving 18_April_2022_Final_Grades_IEAP_4_Final_Grades_18_April_2022_term_Grades.csv to non-consolidated.
+  -> Moving 16_January_2023_A_Term_Final_Grades_EHSS_01_VEN_2023T1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_EHSS_01_VEN_2023T1ET1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_PREB2_STEP_240109E_T1AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 03_April_2024_Final_Grades_A_IEAP_3W_240403E_T2AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_Done_EHSS_05_Final_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_Done_Complete_IEAP_P_Final_Results_03_April_2024_(A).csv to non-consolidated.
+  -> Moving 7_August_2023_(B)_Final_Grades_Done_EHSS_07A_Final_Grades.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_IEAP_4W_231009E_T3AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_Done_EHSS_3_Final_Grades.csv to non-consolidated.
+  -> Moving 7_August_2023_(B)_Final_Grades_EHSS_01_PRO_2023T2BT2E_Grades_Grades.csv to non-consolidated.
+  -> Moving IFL_July_2022_term_A_IEAP_Pre_B_July_2022_final_grades_FINAL_Grades.csv to consolidated.
+  -> Skipping TO_SORT_2023T1E_Done_IEAP_3_Grades_m.csv (has 18 columns).
+  -> Moving 9_January_2024_Final_Grades_copy_Done_IEAP_B_Final_Grades_9_Jan_2024.csv to non-consolidated.
+  -> Moving IFL_July_2022_term_A_EHSS_4_final_grades_July_2022_Grades.csv to non-consolidated.
+  -> Moving 5_Feb_2024_Grades_B_Term_EHSS_05_PRO_240205E_T3BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 03_April_2024_Final_Grades_A_IEAP_BW_240403E_T2AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 16_January_2023_A_Term_Final_Grades_IEAP_1G_2023T1E_Grades_Grades.csv to non-consolidated.
+  -> Moving IFL_July_2022_term_A_IEAP_4_July_2022_A_term_final_grades_Grades.csv to non-consolidated.
+  -> Moving 6_May_2024_B_term_Final_Grades_Done_Complete_EHSS_10_Final_Grades_5_May_2024.csv to non-consolidated.
+  -> Moving January_2023_A_Final_Grades_copy_EHSS_09_January_23_Final_Grades_Grades.csv to non-consolidated.
+  -> Moving 6_November_2023_B_Term_Final_Grades_EHSS_07_CONV_231106E_T4BE_Grades_Grades.csv to consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_EHSS_5_PRO_231009E_T3AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 6_November_2023_B_Term_Final_Grades_EHSS_07_VEN_231106E_T4BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 28_June_2021_Grades_copy_IEAP_4W_2021T2T2E_Grades_(1)_Grades.csv to non-consolidated.
+  -> Moving 22_Aug_2022_B_term_grades_copy_Pre_B2_part_time_(22_Aug_2022_B_term_final_grades)_Grades.csv to non-consolidated.
+  -> Moving 16_January_2023_A_Term_Final_Grades_EHSS_01_PRO_2023T1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 5_Feb_2024_Grades_B_Term_EHSS_06_R_240205E_T3BE_Grades_Grades.csv to non-consolidated.
+  -> Moving IFL_July_2022_term_A_EHSS_11_final_grades_July_2022_Grades.csv to non-consolidated.
+  -> Moving January_2023_A_Final_Grades_copy_EHSS_04_January_23_A_Term_Final_Grades_EHSS_4.csv to non-consolidated.
+  -> Moving 28_June_2021_Grades_copy_GESL_PB2_final_28_06_21.csv to consolidated.
+  -> Moving 18_April_2022_Final_Grades_EHSS_03_FINAL_Grades.csv to consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_Done_GESL_4_Final_Grades_9_Jan_2024.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_EHSS_2_VEN_231009E_T3AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_Done_EHSS_11_Final_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_EHSS_7B_VEN_2023T1ET1E_Grades_Grades.csv to non-consolidated.
+  -> Moving January_2023_A_Final_Grades_copy_EHSS_08A_Grades_EHSS_8A.csv to non-consolidated.
+  -> Moving IEAP_4G_240403E_T2AE_Grades_(2)_Grades.csv to non-consolidated.
+  -> Moving 7_August_2023_(B)_Final_Grades_EHSS_05_PRO_2023T2BT2E_Grades_Grades.csv to non-consolidated.
+  -> Moving 5_Feb_2024_Grades_B_Term_Done_Completed_IEAP_3_Final_Grades_5_Feb_2024.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_GESL_03_FOUR_240109E_T1AE_Grades_Grades.csv to non-consolidated.
+  -> Skipping 03_April_2024_Final_Grades_A_EHSS_07A_COMP_240403E_T2AE_Grades_Grades.csv (has 12 columns).
+  -> Moving 6_May_2024_B_term_Final_Grades_Done_Complete_EHSS_03_Final_Grades_5_May_2024.csv to non-consolidated.
+  -> Moving 18_April_2022_Final_Grades_EHSS_09_Final_Grades_18_April_2022_Grades.csv to non-consolidated.
+  -> Moving 5_Feb_2024_Grades_B_Term_EHSS_02_VEN_240205E_T3BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_Done_EHSS_4_Final_Grades.csv to non-consolidated.
+  -> Moving January_2023_A_Final_Grades_copy_IEAP_Pre_Beginner_Grades_Grades.csv to non-consolidated.
+  -> Skipping 17_July_2023_A_term_Final_Grades_EHSS_9B_COMP_2023T1ET1E_Grades_Grades.csv (has 12 columns).
+  -> Moving January_2023_A_Final_Grades_copy_IEAP_BG_January_2023_Term_A_Final_Grades_Grades.csv to non-consolidated.
+  -> Moving 23_May_2022_Final_Grades_EHSS_06_FINAL_Grades_EHSS_6.csv to consolidated.
+  -> Moving 03_April_2024_Final_Grades_A_EHSS_07C_VEN_240403E_T2AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 6_May_2024_B_term_Final_Grades_IEAP_1W_240506E_T2BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 5_Feb_2024_Grades_B_Term_Done_GESL_1_Final_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_Done_GESL_02_Final_Grades.csv to non-consolidated.
+  -> Moving IFL_November_2022_Final_Grades_EHSS_05_Final_Grades_Grades.csv to non-consolidated.
+  -> Moving January_2023_A_Final_Grades_copy_IEAP_03_January_2023_Term_A_Final_Grades_G.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_EHSS_9_VEN_231009E_T3AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 28_June_2021_Grades_copy_EHSS_02_2D_2021T2T2E_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_EHSS_9A_VEN_2023T1ET1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 16_January_2023_A_Term_Final_Grades_GESL_PB1_STEP_2023T1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_IEAP_PW_2023T3E_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_Feb_2023_B_term_Final_Grades_EHSS_04_17_February_2023_Term_B_Final_Grades_EHSS_4.csv to non-consolidated.
+  -> Moving 16_January_2023_A_Term_Final_Grades_EHSS_07A_VEN_2023T1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 5_Feb_2024_Grades_B_Term_EHSS_09_VEN_240205E_T3BE_Grades_Grades.csv to non-consolidated.
+  -> Moving IFL_November_2022_Final_Grades_EHSS_08_Final_Grades_EHSS_8_Result.csv to non-consolidated.
+  -> Skipping 9_January_2024_Final_Grades_copy_EHSS_07B_COMP_240109E_T1AE_Grades_Grades.csv (has 12 columns).
+  -> Moving 9_January_2024_Final_Grades_copy_EHSS_01_VEN_240109E_T1AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 7_August_2023_(B)_Final_Grades_Done_IEAP_01_Final_Grades_7_Aug_2023_Term_B.csv to non-consolidated.
+  -> Moving 28_June_2021_Grades_copy_EHSS_11_2D_2021T2T2E_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_EHSS_05_VEN_2023T1ET1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_EHSS_09B_COMP_2023T3E_Grades.csv to consolidated.
+  -> Moving 5_Feb_2024_Grades_B_Term_Done_EHSS_2_Final_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_EHSS_08_R_2023T1ET1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 15_May_2023_B_term_Final_Grades_copy_GESL_01_COMM_2023T4E_Grades_Grades.csv to non-consolidated.
+  -> Moving 6_May_2024_B_term_Final_Grades_IEAP_4G_240506E_T2BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 03_April_2024_Final_Grades_A_EHSS_05_VEN_240403E_T2AE_Grades_Grades.csv to non-consolidated.
+  -> Moving IFL_July_2022_term_A_EHSS_9_final_grades_July_2022_Grades.csv to non-consolidated.
+  -> Moving 6_May_2024_B_term_Final_Grades_EHSS_11_R_240506E_T2BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_EHSS_11_W_231009E_T3AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 18_April_2022_Final_Grades_EHSS_08_Final_Grades_18_April_2022_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_EHSS_09_R_240109E_T1AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 15_May_2023_B_term_Final_Grades_copy_Done_EHSS_10_Final_Grades_15_May_2023.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_EHSS_03_PRO_2023T3E_Grades_Grades.csv to non-consolidated.
+  -> Moving January_2023_A_Final_Grades_copy_EHSS_07_January_2023_A_Term_Final_Grades_Grades.csv to non-consolidated.
+  -> Moving 18_April_2022_Final_Grades_IEAP_PG_FINAL_Grades_FINAL_Grades.csv to consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_Done_IEAP_BEG_Final_Grades_17_July_2023.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_EHSS_10_W_2023T1ET1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_EHSS_01_PRO_2023T1ET1E_Grades_Grades.csv to non-consolidated.
+  -> Moving TO_SORT_IFL_Grade_Oct_17_2022_EHSS_Pre_B2_Final_Grades_17_Oct_2022_calculating.csv to non-consolidated.
+  -> Skipping January_2023_A_Final_Grades_copy_GESL_PB2_Grades_Pre_B2.csv (has 19 columns).
+  -> Moving 22_Aug_2022_B_term_grades_copy_IEAP_1_(final_grades_22_August_2022_B_term)_Grades.csv to non-consolidated.
+  -> Moving 03_April_2024_Final_Grades_A_IEAP_BG_240403E_T2AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_Done_EHSS_7A_Final_Grades_17_July_2023.csv to non-consolidated.
+  -> Moving 18_April_2022_Final_Grades_EHSS_08_Final_Grades.csv to consolidated.
+  -> Moving 03_April_2024_Final_Grades_A_GESL_06_FOUR_240403E_T2AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 03_April_2024_Final_Grades_A_IEAP_3G_240403E_T2AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 7_August_2023_(B)_Final_Grades_EHSS_07B_R_2023T2BT2E_Grades_Grades.csv to non-consolidated.
+  -> Moving January_2023_A_Final_Grades_copy_IEAP_BG_January_2023_Term_A_Final_Grades_IEAP_Beginner.csv to non-consolidated.
+  -> Moving 28_June_2021_Grades_copy_IEAP_PG_2021T2T2E_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_IEAP_4G_231009E_T3AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_Done_EHSS_8_Final_Grades.csv to non-consolidated.
+  -> Moving 6_November_2023_B_Term_Final_Grades_EHSS_06_R_231106E_T4BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_EHSS_03_VEN_2023T3E_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_IEAP_3W_2023T1ET1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 7_August_2023_(B)_Final_Grades_EHSS_11_R_2023T2BT2E_Grades_Grades.csv to non-consolidated.
+  -> Moving 15_May_2023_B_term_Final_Grades_copy_Done_EHSS_06_Final_Grades.csv to non-consolidated.
+  -> Moving IEAP_4W_240403E_T2AE_A_Grades_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_Done_Complete_IEAP_03_Final_Results_03_April_2024_(A).csv to non-consolidated.
+  -> Moving 6_November_2023_B_Term_Final_Grades_DONE_EHSS_03_Final_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_EHSS_08B_VEN_2023T3E_Grades_Grades.csv to non-consolidated.
+  -> Moving 15_May_2023_B_term_Final_Grades_copy_Done_GESL_1_Final_Grades_15_May_2023.csv to non-consolidated.
+  -> Moving January_2023_A_Final_Grades_copy_EHSS_03_January_2023_Final_Grades_Grades.csv to non-consolidated.
+  -> Moving 6_May_2024_B_term_Final_Grades_EHSS_05_PRO_240506E_T2BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 28_June_2021_Grades_copy_EHSS_04_2D_2021T2T2E_Grades_Grades.csv to non-consolidated.
+  -> Moving 7_August_2023_(B)_Final_Grades_EHSS_01_VEN_2023T2BT2E_Grades_Grades.csv to non-consolidated.
+  -> Skipping GESL_Term_01_July_01_October_2019_copy_GESL_(2).csv (has 16 columns).
+  -> Moving 15_May_2023_B_term_Final_Grades_copy_EHSS_07_VEN_2023T4E_Grades_Grades.csv to non-consolidated.
+  -> Moving 5_Feb_2024_Grades_B_Term_Done_Completed_EHSS_8_Final_Grades_5_Feb_2024.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_GESL_4_FOUR_231009E_T3AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_GESL_PB2_SMART_2023T1ET1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_Done_IEAP_1_Final_Grades.csv to non-consolidated.
+  -> Moving 28_June_2021_Grades_copy_IEAP_BG_2021T2T2E_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_Done_EHSS_10_Final_Grades.csv to non-consolidated.
+  -> Moving 6_May_2024_B_term_Final_Grades_Done_EHSS_04_Final_Grades_5_May_2024.csv to non-consolidated.
+  -> Moving 15_May_2023_B_term_Final_Grades_copy_Done_EHSS_05_Final_Grades_15_May_2023.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_IEAP_1W_231009E_T3AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_EHSS_05_PRO_2023T3E_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_IEAP_BW_2023T1ET1E_Grades_Grades.csv to non-consolidated.
+  -> Moving TO_SORT_IFL_Grade_Oct_17_2022_EHSS_7B_Final_Grades_17_Oct_2022_calculating.csv to non-consolidated.
+  -> Moving 18_April_2022_Final_Grades_EHSS_10_Final_Grades_Grades.csv to non-consolidated.
+  -> Skipping January_2023_A_Final_Grades_copy_IEAP_4_Grades_IEAP_4.csv (has 17 columns).
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_Done_COMPLETE_EHSS_6_Final_Grades_9_October_2023.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_EHSS_08C_R_240109E_T1AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_IEAP_BG_240109E_T1AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_EHSS_06_PRO_2023T1ET1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 5_Feb_2024_Grades_B_Term_Done_GESL_4_Final_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_Done_Complete_EHSS_07B_Final_Grades_03_April_2024_(A).csv to non-consolidated.
+  -> Moving 18_April_2022_Final_Grades_EHSS_12_Final_Grades.csv to consolidated.
+  -> Moving 6_May_2024_B_term_Final_Grades_EHSS_02_PRO_240506E_T2BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 15_May_2023_B_term_Final_Grades_copy_EHSS_01_PRO_2023T4E_Grades_Grades.csv to non-consolidated.
+  -> Moving 16_January_2023_A_Term_Final_Grades_IEAP_3W_2023T1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 5_Feb_2024_Grades_B_Term_Done_Completed_EHSS_3_Final_Grades_5_Feb_2024.csv to non-consolidated.
+  -> Moving 5_Feb_2024_Grades_B_Term_Done_EHSS_7_Final_Grades.csv to non-consolidated.
+  -> Moving 6_May_2024_B_term_Final_Grades_GESL_05_ENGL_240506E_T2BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_EHSS_08C_VEN_240109E_T1AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_Done_COMPLETE_EHSS_7B_Final_Grades_9_October_2023.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_Done_EHSS_5_Final_Grades_9_Jan_2024.csv to non-consolidated.
+  -> Moving 6_May_2024_B_term_Final_Grades_Done_GESL_02_Final_Grades.csv to non-consolidated.
+  -> Moving 23_May_2022_Final_Grades_EHSS_01_FINAL_Grades_EHSS_1.csv to consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_Done_GESL_2_Final_Grades.csv to non-consolidated.
+  -> Moving 28_June_2021_Grades_copy_IEAP_BEG_final_28_06_21.csv to consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_EHSS_05_VEN_2023T3E_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_EHSS_11_R_240109E_T1AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_Done_Complete_GESL_02_Final_Grades_03_April_2024_(A).csv to non-consolidated.
+  -> Moving IFL_November_2022_Final_Grades_IEAP_2_Final_Grades_Grades.csv to non-consolidated.
+  -> Moving 28_June_2021_Grades_copy_EHSS_06_3D_2021T2T2E_Grades_Grades.csv to non-consolidated.
+  -> Moving 28_June_2021_Grades_copy_i3_Suggestion1.csv to consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_EHSS_09A_COMP_2023T3E_Grades.csv to consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_Done_EHSS_8C_Final_Grades.csv to non-consolidated.
+  -> Moving IEAP_Term_01_October_2019_IEAP_Pre_&_Beginner.csv to non-consolidated.
+  -> Moving 18_April_2022_Final_Grades_EHSS_09_Final_Grades_18_April_2022.csv to consolidated.
+  -> Moving 6_November_2023_B_Term_Final_Grades_DONE_IEAP_03_Final_Grades.csv to non-consolidated.
+  -> Moving 7_August_2023_(B)_Final_Grades_EHSS_06_VEN_2023T2BT2E_Grades_Grades.csv to non-consolidated.
+  -> Moving 15_May_2023_B_term_Final_Grades_copy_EHSS_01_VEN_2023T4E_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_Done_EHSS_1_Final_Grades.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_GESL_2_COMM_231009E_T3AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 6_November_2023_B_Term_Final_Grades_PREB2_SMART_231106E_T4BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 6_May_2024_B_term_Final_Grades_Done_EHSS_11_Final_Grades.csv to non-consolidated.
+  -> Moving 7_August_2023_(B)_Final_Grades_Done_EHSS_09_Final_Grades.csv to non-consolidated.
+  -> Moving January_2023_A_Final_Grades_copy_EHSS_06_January_2023_Final_Grades_EHSS_6.csv to non-consolidated.
+  -> Moving IFL_November_2022_Final_Grades_EHSS_06_Final_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_IEAP_3G_240109E_T1AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 7_August_2023_(B)_Final_Grades_IEAP_2W_2023T2BT2E_Grades_Grades.csv to non-consolidated.
+  -> Skipping 19_April_2023_A_term_Final_Grades_EHSS_09A_COMP_2023T3E_Grades_Grades.csv (has 12 columns).
+  -> Moving 9_January_2024_Final_Grades_copy_GESL_05_COMM_240109E_T1AE_Grades_Grades.csv to non-consolidated.
+  -> Skipping Pre_B_Term_01_October_2019_Pre_Beginner_(2).csv (has 11 columns).
+  -> Skipping 17_July_2023_A_term_Final_Grades_EHSS_9A_COMP_2023T1ET1E_Grades_Grades.csv (has 12 columns).
+  -> Moving 03_April_2024_Final_Grades_A_EHSS_02_VEN_240403E_T2AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 6_November_2023_B_Term_Final_Grades_DONE_EHSS_06_Final_Grades.csv to non-consolidated.
+  -> Moving 15_May_2023_B_term_Final_Grades_copy_GESL_01_FOUR_2023T4E_Grades_Grades.csv to non-consolidated.
+  -> Moving 15_May_2023_B_term_Final_Grades_copy_Done_EHSS_03_Final_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_Done_IEAP_2_Final_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_EHSS_06_VEN_240109E_T1AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 7_August_2023_(B)_Final_Grades_EHSS_02_PRO_2023T2BT2E_Grades_Grades.csv to non-consolidated.
+  -> Moving 28_June_2021_Grades_copy_i3_i3.csv to consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_Done_IEAP_4_Final_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_Done_IEAP_B_Final_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_Done_GESL_PB2_Final_Grades_17_July_2023.csv to non-consolidated.
+  -> Moving 6_May_2024_B_term_Final_Grades_EHSS_09_R_240506E_T2BE_Grades_Grades.csv to non-consolidated.
+  -> Skipping January_2023_A_Final_Grades_copy_GESL_PB1_Grades_Pre_B1.csv (has 18 columns).
+  -> Skipping 19_April_2023_A_term_Final_Grades_EHSS_08B_COMP_2023T3E_Grades_Grades.csv (has 12 columns).
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_IEAP_2G_231009E_T3AE_Grades_Grades.csv to non-consolidated.
+  -> Moving IFL_November_2022_Final_Grades_EHSS_06_Final_Grades_EHSS_6_Result.csv to consolidated.
+  -> Skipping IEAP_4G_240403E_T2AE_Grades_(1)_Grades.csv (has 15 columns).
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_Done_COMPLETE_GESL_3_Final_Grades.csv to non-consolidated.
+  -> Moving January_2023_A_Final_Grades_copy_EHSS_01_January_23_Term_A_Final_Grades_Grades.csv to non-consolidated.
+  -> Moving 5_Feb_2024_Grades_B_Term_Done_IEAP_4_Final_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_Done_EHSS_10_Final_Grades_17_July_2023.csv to non-consolidated.
+  -> Moving 22_Aug_2022_B_term_grades_copy_EHSS_04_(22_August_B_term_final_grades)_Grades.csv to non-consolidated.
+  -> Moving IFL_July_2022_term_A_EHSS_11_final_grades_July_2022_FINAL_Grades.csv to consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_EHSS_8A_VEN_231009E_T3AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 5_Feb_2024_Grades_B_Term_EHSS_05_VEN_240205E_T3BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 5_Feb_2024_Grades_B_Term_Done_IEAP_B_Final_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_Done_IEAP_P_Final_Grades.csv to non-consolidated.
+  -> Skipping 16_January_2023_A_Term_Final_Grades_EHSS_08_COMP_2023T1E_Grades_Grades.csv (has 12 columns).
+  -> Moving 6_May_2024_B_term_Final_Grades_Done_Complete_EHSS_08_Final_Grades_5_May_2024.csv to non-consolidated.
+  -> Skipping Pre_B_Term_01_October_2019_format_for_stick_on_board.csv (has 11 columns).
+  -> Moving 17_July_2023_A_term_Final_Grades_EHSS_02_VEN_2023T1ET1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 18_April_2022_Final_Grades_IEAP_PG_FINAL_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_EHSS_5_VEN_231009E_T3AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_GESL_03_COMM_2023T1ET1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 15_May_2023_B_term_Final_Grades_copy_Done_EHSS_07A_Final_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_EHSS_9B_VEN_2023T1ET1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_IEAP_3W_240109E_T1AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 6_November_2023_B_Term_Final_Grades_GESL_03_COMM_231106E_T4BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 6_November_2023_B_Term_Final_Grades_DONE_COMPLETE_IEAP_03_9_Nov_2023_B_Final_Grades.csv to non-consolidated.
+  -> Moving 18_April_2022_Final_Grades_EHSS_05_Final_Grades_18_April_2022.csv to consolidated.
+  -> Skipping TO_SORT_2023T1E_Grades_Temp_EHSS_01_2023T1E_Grades_draft.csv (has 12 columns).
+  -> Moving 28_June_2021_Grades_copy_EHSS_08_final_28_06_21.csv to consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_EHSS_2_PRO_231009E_T3AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 15_May_2023_B_term_Final_Grades_copy_IEAP_4W_2023T4E_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_EHSS_12_W_231009E_T3AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_EHSS_10_R_231009E_T3AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_Done_EHSS_7A_Final_Grades.csv to non-consolidated.
+  -> Moving 22_Aug_2022_B_term_grades_copy_EHSS_1_(22_August_2022_final_grades).csv to consolidated.
+  -> Moving 15_May_2023_B_term_Final_Grades_copy_Done_EHSS_03_Final_Grades_15_May_2023.csv to non-consolidated.
+  -> Moving 7_August_2023_(B)_Final_Grades_Done_EHSS_02_Final_Grades.csv to non-consolidated.
+  -> Moving 5_Feb_2024_Grades_B_Term_EHSS_02_PRO_240205E_T3BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 6_November_2023_B_Term_Final_Grades_DONE_EHSS_12_Final_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_EHSS_06_VEN_2023T1ET1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 28_June_2021_Grades_copy_EHSS_05_final_28_06_21.csv to consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_Done_Complete_IEAP_B_Final_Grades_03_April_2024_(A).csv to non-consolidated.
+  -> Moving IFL_July_2022_term_A_EHSS_10_final_grades_July_2022_FINAL_Grades.csv to consolidated.
+  -> Moving 5_Feb_2024_Grades_B_Term_Done_Completed_EHSS_6_Final_Grades_5_Feb_2024.csv to non-consolidated.
+  -> Moving 7_August_2023_(B)_Final_Grades_EHSS_06_PRO_2023T2BT2E_Grades_Grades.csv to non-consolidated.
+  -> Moving 16_January_2023_A_Term_Final_Grades_IEAP_BG_2023T1E_Grades_Grades.csv to non-consolidated.
+  -> Skipping 15_May_2023_B_term_Final_Grades_copy_IEAP_4G_2023T4E_Grades.csv (has 17 columns).
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_Done_EHSS_12_Final_Grades.csv to non-consolidated.
+  -> Skipping EHSS_Term_01_October_2019_EHSS_(1_6)_(2).csv (has 18 columns).
+  -> Moving 23_May_2022_Final_Grades_PREB2_FINAL_Grades_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_Done_EHSS_08A_Final_Grades_03_April_2024_(A).csv to non-consolidated.
+  -> Skipping 17_July_2023_A_term_Final_Grades_EHSS_08_COMP_2023T1ET1E_Grades_Grades.csv (has 12 columns).
+  -> Moving 17_July_2023_A_term_Final_Grades_EHSS_7A_VEN_2023T1ET1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 28_June_2021_Grades_copy_IEAP_2G_2021T2T2E_Grades_Grades.csv to non-consolidated.
+  -> Moving 22_Aug_2022_B_term_grades_copy_EHSS_03_(22_August_2022_B_term_final_grades)_Grades.csv to non-consolidated.
+  -> Moving 17_Feb_2023_B_term_Final_Grades_IEAP_Pre_B_17_Feb_B_Term_Final_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_Feb_2023_B_term_Final_Grades_EHSS_02_17_Feb_2023_Term_B_Final_Grades_Grades.csv to non-consolidated.
+  -> Moving 18_April_2022_Final_Grades_EHSS_12_Final_Grades_18_April_2022_Grades.csv to non-consolidated.
+  -> Moving January_2023_A_Final_Grades_copy_EHSS_05_January_23_Final_Grades_Grades.csv to non-consolidated.
+  -> Skipping January_2023_A_Final_Grades_copy_EHSS_02_Grades_(1)_EHSS_2.csv (has 18 columns).
+  -> Moving 03_April_2024_Final_Grades_A_EHSS_05_PRO_240403E_T2AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_EHSS_7A_VEN_231009E_T3AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_IEAP_BW_240109E_T1AE_Grades_Grades.csv to non-consolidated.
+  -> Moving January_2023_A_Final_Grades_copy_EHSS_09_January_23_Final_Grades_EHSS_9.csv to non-consolidated.
+  -> Moving 17_Feb_2023_B_term_Final_Grades_EHSS_07_17_Feb_2023_B_term_Final_Grades_EHSS_7.csv to non-consolidated.
+  -> Moving IFL_July_2022_term_A_EHSS_7_final_grades_July_2022_Grades.csv to non-consolidated.
+  -> Moving 22_Aug_2022_B_term_grades_copy_EHSS_07_(22_August_2022_final_grades).csv to consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_EHSS_01_PRO_240109E_T1AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_Done_EHSS_12_Final_Grades.csv to non-consolidated.
+  -> Moving 18_April_2022_Final_Grades_EHSS_10_Final_Grades_18_April_2022.csv to consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_GESL_1_FOUR_231009E_T3AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_EHSS_12_W_2023T3E_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_Done_GESL_3_Final_Grades_17_July_2023.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_Done_EHSS_12_Final_Grades_9_Jan_2024.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_Done_PREB2_Final_Grades.csv to non-consolidated.
+  -> Moving 18_April_2022_Final_Grades_EHSS_06_Final_Grades.csv to consolidated.
+  -> Moving 7_August_2023_(B)_Final_Grades_EHSS_02_VEN_2023T2BT2E_Grades_Grades.csv to non-consolidated.
+  -> Moving 18_April_2022_Final_Grades_EHSS_03_FINAL_Grades_18_April_2022.csv to consolidated.
+  -> Moving 6_November_2023_B_Term_Final_Grades_DONE_COMPLETE_EHSS_05_9_Nov_2023_B_Final_Grades.csv to non-consolidated.
+  -> Moving IEAP_4W_240403E_T2AE_B_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_EHSS_02_PRO_2023T1ET1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 15_May_2023_B_term_Final_Grades_copy_Done_EHSS_08_Final_Grades.csv to non-consolidated.
+  -> Moving 18_April_2022_Final_Grades_IEAP_BG_FINAL_Grades.csv to consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_IEAP_1G_2023T1ET1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_IEAP_2W_231009E_T3AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 6_May_2024_B_term_Final_Grades_Done_EHSS_05_Final_Grades.csv to non-consolidated.
+  -> Moving TO_SORT_IFL_Grade_Oct_17_2022_EHSS_08_Final_Grades_17_Oct_2022_Grades.csv to non-consolidated.
+  -> Moving 7_August_2023_(B)_Final_Grades_Done_GESL_02_Final_Grades_7_Aug_2023_B_Term.csv to non-consolidated.
+  -> Moving 18_April_2022_Final_Grades_EHSS_03_FINAL_Grades_Grades.csv to non-consolidated.
+  -> Moving 18_April_2022_Final_Grades_EHSS_10_Final_Grades_18_April_2022_Grades.csv to non-consolidated.
+  -> Skipping 9_Oct_2023_(A)_Final_Grades_copy_EHSS_7A_COMP_231009E_T3AE_Grades_Grades.csv (has 12 columns).
+  -> Moving 17_July_2023_A_term_Final_Grades_Done_EHSS_6_Final_Grades.csv to non-consolidated.
+  -> Moving 18_April_2022_Final_Grades_IEAP_1_Final_grade_18_April_2022_term_Grades.csv to non-consolidated.
+  -> Moving January_2023_A_Final_Grades_copy_EHSS_04_Grades_Grades.csv to non-consolidated.
+  -> Moving 03_April_2024_Final_Grades_A_GESL_03_FOUR_240403E_T2AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_Done_EHSS_09B_Final_Grades.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_Done_EHSS_6_Final_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_GESL_01_FOUR_2023T3E_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_Done_EHSS_9B_Final_Grades_17_July_2023.csv to non-consolidated.
+  -> Skipping 6_November_2023_B_Term_Final_Grades_EHSS_08_COMP_231106E_T4BE_Grades_Grades.csv (has 12 columns).
+  -> Moving IEAP_Term_01_October_2019.csv to consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_Done_EHSS_7A_Final_Grades.csv to non-consolidated.
+  -> Moving 6_May_2024_B_term_Final_Grades_EHSS_05_VEN_240506E_T2BE_Grades_Grades.csv to non-consolidated.
+  -> Skipping GESL_Term_01_July_01_October_2019_copy_GESL.csv (has 17 columns).
+  -> Moving 19_April_2023_A_term_Final_Grades_Done_Complete_EHSS_08B_Final_Grades_03_April_2024.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_Done_EHSS_2_Final_Grades_17_July_2023.csv to non-consolidated.
+  -> Moving 6_November_2023_B_Term_Final_Grades_IEAP_2G_231106E_T4BE_Grades_Grades.csv to non-consolidated.
+  -> Moving January_2023_A_Final_Grades_copy_EHSS_07A_Grades_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_Done_Complete_EHSS_03_Final_Grades_3_April_2024.csv to non-consolidated.
+  -> Moving 03_April_2024_Final_Grades_A_GESL_03_COMM_240403E_T2AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_EHSS_02_VEN_2023T3E_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_IEAP_2W_2023T1ET1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 18_April_2022_Final_Grades_EHSS_02_FINAL_Grades.csv to consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_Done_GESL_5_Final_Grades_9_Jan_2024.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_Done_IEAP_4_Final_Grades_9_Jan_2024.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_PREB2_SMART_240109E_T1AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_EHSS_10_R_2023T1ET1E_Grades_Grades.csv to non-consolidated.
+  -> Moving EHSS_Term_01_October_2019_EHSS_7_&_above_(2).csv to non-consolidated.
+  -> Moving 15_May_2023_B_term_Final_Grades_copy_EHSS_06_VEN_2023T4E_Grades_Grades.csv to non-consolidated.
+  -> Moving 6_May_2024_B_term_Final_Grades_EHSS_03_VEN_240506E_T2BE_Grades_Grades.csv to non-consolidated.
+  -> Skipping January_2023_A_Final_Grades_copy_IEAP_1_Grades_IEAP_1.csv (has 18 columns).
+  -> Moving 17_Feb_2023_B_term_Final_Grades_EHSS_03_17_February_2023_Term_B_Final_Grades_EHSS_3.csv to non-consolidated.
+  -> Moving 28_June_2021_Grades_copy_EHSS_09_2D_2021T2T2E_Grades_Grades.csv to non-consolidated.
+  -> Moving 28_June_2021_Grades_copy_IEAP_1G_2021T2T2E_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_Done_GESL_1_Final_Grades.csv to non-consolidated.
+  -> Moving 23_May_2022_Final_Grades_EHSS_04_FINAL_Grades_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_EHSS_02_PRO_2023T3E_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_Feb_2023_B_term_Final_Grades_EHSS_PreB2_17_Feb_B_Term_Final_Grades_Pre_B2.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_Done_EHSS_2_Final_Grades.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_GESL_1_COMM_231009E_T3AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_Done_EHSS_04_Final_Grades.csv to non-consolidated.
+  -> Moving 22_Aug_2022_B_term_grades_copy_EHSS_02_(22_Aug_B_term_final_grades).csv to consolidated.
+  -> Moving 15_May_2023_B_term_Final_Grades_copy_EHSS_06_PRO_2023T4E_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_Done_EHSS_2_Final_Grades.csv to non-consolidated.
+  -> Moving 6_May_2024_B_term_Final_Grades_EHSS_08_VEN_240506E_T2BE_Grades_Grades.csv to non-consolidated.
+  -> Moving January_2023_A_Final_Grades_copy_IEAP_1_Grades_Grades.csv to non-consolidated.
+  -> Moving 6_November_2023_B_Term_Final_Grades_EHSS_12_R_231106E_T4BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 6_November_2023_B_Term_Final_Grades_DONE_EHSS_09_Final_Grades.csv to non-consolidated.
+  -> Moving 7_August_2023_(B)_Final_Grades_EHSS_11_W_2023T2BT2E_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_Done_GESL_1_Final_Grades.csv to non-consolidated.
+  -> Moving 6_May_2024_B_term_Final_Grades_Done_EHSS_01_Final_Grades.csv to non-consolidated.
+  -> Moving January_2023_A_Final_Grades_copy_EHSS_08_January_2023_Final_Grades_Grades.csv to non-consolidated.
+  -> Moving 7_August_2023_(B)_Final_Grades_Done_EHSS_06_Final_Grades.csv to non-consolidated.
+  -> Moving January_2023_A_Final_Grades_copy_IEAP_02_January_2023_Term_A_Final_Grades_IEAP_2.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_IEAP_3W_2023T3E_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_Done_IEAP_1_Final_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_GESL_PB2_SMART_2023T3E_Grades_Grades.csv to non-consolidated.
+  -> Moving 5_Feb_2024_Grades_B_Term_IEAP_BG_240205E_T3BE_Grades_Grades.csv to non-consolidated.
+  -> Skipping January_08,_2020_GESL_January_2020_FINAL_GESL.csv (has 14 columns).
+  -> Moving IFL_July_2022_term_A_EHSS_10_final_grades_July_2022_Grades.csv to non-consolidated.
+  -> Moving 28_June_2021_Grades_copy_EHSS_06_final_28_06_21.csv to consolidated.
+  -> Moving 7_August_2023_(B)_Final_Grades_EHSS_09_R_2023T2BT2E_Grades_Grades.csv to non-consolidated.
+  -> Moving 7_August_2023_(B)_Final_Grades_GESL_02_COMM_2023T2BT2E_Grades_Grades.csv to non-consolidated.
+  -> Moving 22_Aug_2022_B_term_grades_copy_EHSS_05_(22_August_2022_final_grades).csv to consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_PREB2_INTRO_231009E_T3AE_Grades_Grades.csv to non-consolidated.
+  -> Moving IFL_July_2022_term_A_EHSS_5_final_grades_July_2022_Grades.csv to non-consolidated.
+  -> Moving 23_May_2022_Final_Grades_IEAP_1_FINAL_Grades_IEAP_1.csv to consolidated.
+  -> Moving 03_April_2024_Final_Grades_A_EHSS_03_PRO_240403E_T2AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_Done_IEAP_1_Final_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_Done_PREB2_Final_Grades.csv to non-consolidated.
+  -> Moving January_2023_A_Final_Grades_copy_EHSS_02_January_2023_Term_A_Final_Grades_Grades.csv to non-consolidated.
+  -> Moving 7_August_2023_(B)_Final_Grades_Done_GESL_PB2_Final_Grades_Final_Grades_7_Aug_2023_B_Term.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_EHSS_4_PRO_231009E_T3AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 6_November_2023_B_Term_Final_Grades_EHSS_06_VEN_231106E_T4BE_Grades_Grades.csv to non-consolidated.
+  -> Moving Pre_B_Term_01_October_2019_Sheet2.csv to consolidated.
+  -> Moving 5_Feb_2024_Grades_B_Term_Done_EHSS_8_Final_Grades.csv to non-consolidated.
+  -> Moving 6_November_2023_B_Term_Final_Grades_GESL_03_FOUR_231106E_T4BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 03_April_2024_Final_Grades_A_EHSS_08B_VEN_240403E_T2AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 5_Feb_2024_Grades_B_Term_EHSS_09_R_240205E_T3BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 03_April_2024_Final_Grades_A_PRE_B2_SMART_240403E_T2AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 03_April_2024_Final_Grades_A_EHSS_12_W_240403E_T2AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 03_April_2024_Final_Grades_A_EHSS_10_R_240403E_T2AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 18_April_2022_Final_Grades_GESL_PB2_FNAL_Grades_18_April_2022.csv to consolidated.
+  -> Moving January_2023_A_Final_Grades_copy_GESL_01_January_2023_Term_A_Final_Grades_Sheet2.csv to non-consolidated.
+  -> Moving 23_May_2022_Final_Grades_IEAP_1_FINAL_Grades_Grades.csv to non-consolidated.
+  -> Moving 5_Feb_2024_Grades_B_Term_EHSS_04_PRO_240205E_T3BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 5_Feb_2024_Grades_B_Term_Done_Completed_EHSS_9_Final_Grades_5_Feb_2024.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_Done_EHSS_7A_Final_Grades_9_Jan_2024.csv to non-consolidated.
+  -> Moving 5_Feb_2024_Grades_B_Term_IEAP_3G_240205E_T3BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_Done_COMPLETE_EHSS_8B_Final_Grades.csv to non-consolidated.
+  -> Moving 5_Feb_2024_Grades_B_Term_EHSS_03_VEN_240205E_T3BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_Done_EHSS_11_Final_Grades.csv to non-consolidated.
+  -> Moving IFL_November_2022_Final_Grades_EHSS_01_Final_Grades_EHSS_1_Result.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_Done_EHSS_8B_Final_Grades_9_Jan_2024.csv to non-consolidated.
+  -> Moving IFL_July_2022_term_A_EHSS_8_final_grades_July_2022_Grades.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_Done_EHSS_9_Final_Grades.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_EHSS_3_VEN_231009E_T3AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_EHSS_11_W_2023T1ET1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 6_November_2023_B_Term_Final_Grades_EHSS_01_PRO_231106E_T4BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_GESL_01_COMM_2023T1ET1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 6_November_2023_B_Term_Final_Grades_DONE_EHSS_02_Final_Grades.csv to non-consolidated.
+  -> Moving 18_April_2022_Final_Grades_IEAP_Beg_18_April_2022_final_grades_Grades.csv to non-consolidated.
+  -> Skipping 7_August_2023_(B)_Final_Grades_EHSS_07A_COMP_2023T2BT2E_Grades_Grades.csv (has 12 columns).
+  -> Moving TO_SORT_IFL_Grade_Oct_17_2022_IEAP_B_Final_Grades_17_Oct_2022_Grades.csv to non-consolidated.
+  -> Moving January_2023_A_Final_Grades_copy_IEAP_4_Grades_Grades.csv to non-consolidated.
+  -> Moving 5_Feb_2024_Grades_B_Term_EHSS_08_VEN_240205E_T3BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 15_May_2023_B_term_Final_Grades_copy_Done_GESL_PREB2_Final_Grades_15_May_2023.csv to non-consolidated.
+  -> Moving 6_May_2024_B_term_Final_Grades_Done_Complete_EHSS_07_Final_Grades_5_May_2024.csv to non-consolidated.
+  -> Moving 5_Feb_2024_Grades_B_Term_EHSS_10_W_240205E_T3BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 28_June_2021_Grades_copy_EHSS_05_2D_2021T2T2E_Grades_Grades.csv to non-consolidated.
+  -> Moving 03_April_2024_Final_Grades_A_EHSS_04_VEN_240403E_T2AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_GESL_05_FOUR_240109E_T1AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 18_April_2022_Final_Grades_EHSS_09_Final_Grades.csv to consolidated.
+  -> Moving 03_April_2024_Final_Grades_A_EHSS_07B_VEN_240403E_T2AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_EHSS_09B_VEN_2023T3E_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_Done_COMPLETE_IEAP_3_Final_Grades_9_October_2023.csv to non-consolidated.
+  -> Moving 18_April_2022_Final_Grades_EHSS_07_Final_Grades_Grades.csv to non-consolidated.
+  -> Moving 7_August_2023_(B)_Final_Grades_Done_GESL_01_Final_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_EHSS_7A_R_2023T1ET1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 6_November_2023_B_Term_Final_Grades_IEAP_2W_231106E_T4BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_Done_IEAP_1_Final_Grades_9_Jan_2024.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_Done_EHSS_7B_Final_Grades.csv to non-consolidated.
+  -> Moving 17_Feb_2023_B_term_Final_Grades_EHSS_05_17_Feb_2023_Term_B_Final_Grades_EHSS_5.csv to non-consolidated.
+  -> Moving 6_November_2023_B_Term_Final_Grades_DONE_COMPLETE_GESL_02_9_November_2023_B_Final_Grades.csv to non-consolidated.
+  -> Moving 5_Feb_2024_Grades_B_Term_IEAP_3W_240205E_T3BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 5_Feb_2024_Grades_B_Term_Done_EHSS_3_Final_Grades.csv to non-consolidated.
+  -> Moving 6_November_2023_B_Term_Final_Grades_DONE_COMPLETE_EHSS_02_9_Nov_2023_B_Final_Grades.csv to non-consolidated.
+  -> Moving 6_November_2023_B_Term_Final_Grades_DONE_COMPLETE_EHSS_07_9_Nov_2024_B_Final_Grades.csv to non-consolidated.
+  -> Skipping 6_May_2024_B_term_Final_Grades_EHSS_09_CONV_240506E_T2BE_Grades_Grades.csv (has 12 columns).
+  -> Moving TO_SORT_2023T1E_Grades_Temp_EHSS_01_PRO_2023T1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 16_January_2023_A_Term_Final_Grades_GESL_01_FOUR_2023T1E_Grades_Grades.csv to non-consolidated.
+  -> Moving 18_April_2022_Final_Grades_EHSS_08_Final_Grades_Grades.csv to non-consolidated.
+  -> Moving IEAP_4W_240403E_T2AE_Grades_(1)_Grades.csv to non-consolidated.
+  -> Skipping GESL_Term_01_July_01_October_2019_copy_FORMAT_GESL_for_Stick_on_Board.csv (has 16 columns).
+  -> Moving 15_May_2023_B_term_Final_Grades_copy_IEAP_BG_2023T4E_Grades_Grades.csv to non-consolidated.
+  -> Moving 7_August_2023_(B)_Final_Grades_Done_GESL_PB2_Final_Grades_7_Aug_2023_Term_B.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_Done_PREB2_Final_Grades_9_Jan_2024.csv to non-consolidated.
+  -> Moving 9_Oct_2023_(A)_Final_Grades_copy_GESL_2_FOUR_231009E_T3AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_Done_GESL_03_Final_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_Done_SEL_READING_CHAPTERS.csv to non-consolidated.
+  -> Moving 6_May_2024_B_term_Final_Grades_Done_IEAP_1_Final_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_EHSS_06_R_240109E_T1AE_Grades_Grades.csv to non-consolidated.
+  -> Moving 23_May_2022_Final_Grades_EHSS_03_FINALGrades_Grades.csv to non-consolidated.
+  -> Moving 7_August_2023_(B)_Final_Grades_IEAP_1G_2023T2BT2E_Grades_Grades.csv to non-consolidated.
+  -> Moving 17_July_2023_A_term_Final_Grades_Done_EHSS_5_Final_Grades_17_July_2023.csv to non-consolidated.
+  -> Moving 22_Aug_2022_B_term_grades_copy_EHSS_05_(22_August_2022_final_grades)_Grades.csv to non-consolidated.
+  -> Moving TO_SORT_IFL_Grade_Oct_17_2022_EHSS_03_Final_Grades_17_Oct_2022_calculating.csv to non-consolidated.
+  -> Moving 6_May_2024_B_term_Final_Grades_Done_Complete_EHSS_11_Final_Grades_5_May_2024.csv to non-consolidated.
+  -> Moving January_2023_A_Final_Grades_copy_IEAP_02_January_2023_Term_A_Final_Grades_Grades.csv to non-consolidated.
+  -> Moving 6_May_2024_B_term_Final_Grades_EHSS_04_PRO_240506E_T2BE_Grades_Grades.csv to non-consolidated.
+  -> Moving TO_SORT_2023T1E_Grades_Temp_EHSS_01_VEN_2023T1E_Grades_Grades.csv to non-consolidated.
+  -> Skipping TO_SORT_2023T1E_Done_EHSS_06_Grades_m.csv (has 16 columns).
+  -> Skipping January_2023_A_Final_Grades_copy_IEAP_4G_2023T1E_Grades_g_Grades.csv (has 12 columns).
+  -> Moving 7_August_2023_(B)_Final_Grades_Done_EHSS_07B_Final_Grades_7_Aug_2023_Term_B.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_Done_EHSS_08B_Final_Grades.csv to non-consolidated.
+  -> Moving 28_June_2021_Grades_copy_IEAP_PRE_final_28_06_21.csv to consolidated.
+  -> Moving IFL_November_2022_Final_Grades_EHSS_05_Final_Grades_EHSS_5_Result.csv to non-consolidated.
+  -> Moving 5_Feb_2024_Grades_B_Term_GESL_04_FOUR_240205E_T3BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 9_January_2024_Final_Grades_copy_Done_EHSS_5_Final_Grades.csv to non-consolidated.
+  -> Moving January_2023_A_Final_Grades_copy_EHSS_Pre_B2_Jan_2023_A_Term_Final_Grades_Grades.csv to non-consolidated.
+  -> Moving 28_June_2021_Grades_copy_EHSS_03_2D_2021T2T2E_Grades_Grades.csv to non-consolidated.
+  -> Moving January_2023_A_Final_Grades_copy_EHSS_10_January_2023_Final_Grades_EHSS_10.csv to non-consolidated.
+  -> Moving 5_Feb_2024_Grades_B_Term_IEAP_BW_240205E_T3BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 19_April_2023_A_term_Final_Grades_Done_EHSS_10_Final_Grades.csv to non-consolidated.
+  -> Skipping TO_SORT_2023T1E_Done_EHSS_01_Grades_m.csv (has 16 columns).
+  -> Moving 19_April_2023_A_term_Final_Grades_IEAP_BG_2023T3E_Grades_Grades.csv to non-consolidated.
+  -> Moving 7_August_2023_(B)_Final_Grades_Done_EHSS_06_Final_Grades_7_Aug_2023_Term_B.csv to non-consolidated.
+  -> Skipping 9_Oct_2023_(A)_Final_Grades_copy_EHSS_7B_COMP_231009E_T3AE_Grades_Grades.csv (has 12 columns).
+  -> Moving 6_November_2023_B_Term_Final_Grades_EHSS_09_R_231106E_T4BE_Grades_Grades.csv to non-consolidated.
+  -> Moving 18_April_2022_Final_Grades_GESL_PB2_FNAL_Grades_Grades.csv to non-consolidated.
+  -> Moving 6_November_2023_B_Term_Final_Grades_DONE_COMPLETE_PREB2_9_Nov_2023_B_Final_Grades.csv to non-consolidated.
+  -> Moving 16_January_2023_A_Term_Final_Grades_IEAP_4W_2023T1E_Grades_Grades.csv to non-consolidated.
+Loading legacy grades from data/all_ifl_to_update.csv
+
+Processing consolidated files in data/interim/consolidated...
+File: 28_June_2021_Grades_copy_EHSS_07_final_28_06_21.csv, YearMonth: 2021-06, Matched TERMID: 2021-06-28
+--- Processing consolidated file: 28_June_2021_Grades_copy_EHSS_07_final_28_06_21.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 18_April_2022_Final_Grades_IEAP_Beg_18_April_2022_final_grades.csv, YearMonth: 2022-04, Matched TERMID: 2022-04-11
+--- Processing consolidated file: 18_April_2022_Final_Grades_IEAP_Beg_18_April_2022_final_grades.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 18_April_2022_Final_Grades_IEAP_2G_FINAL_Grades.csv, YearMonth: 2022-04, Matched TERMID: 2022-04-11
+--- Processing consolidated file: 18_April_2022_Final_Grades_IEAP_2G_FINAL_Grades.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 18_April_2022_Final_Grades_EHSS_05_Final_Grades.csv, YearMonth: 2022-04, Matched TERMID: 2022-04-11
+--- Processing consolidated file: 18_April_2022_Final_Grades_EHSS_05_Final_Grades.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 18_April_2022_Final_Grades_EHSS_06_Final_Grades_18_April_2022.csv, YearMonth: 2022-04, Matched TERMID: 2022-04-11
+--- Processing consolidated file: 18_April_2022_Final_Grades_EHSS_06_Final_Grades_18_April_2022.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 28_June_2021_Grades_copy_IEAP_1_final_28_06_21.csv, YearMonth: 2021-06, Matched TERMID: 2021-06-28
+--- Processing consolidated file: 28_June_2021_Grades_copy_IEAP_1_final_28_06_21.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: IFL_July_2022_term_A_EHSS_4_final_grades_July_2022_FINAL_Grades.csv, YearMonth: 2022-07, Matched TERMID: 2022-07-18
+--- Processing consolidated file: IFL_July_2022_term_A_EHSS_4_final_grades_July_2022_FINAL_Grades.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: IFL_July_2022_term_A_EHSS_6_final_grades_July_2022_FINAL_Grades.csv, YearMonth: 2022-07, Matched TERMID: 2022-07-18
+--- Processing consolidated file: IFL_July_2022_term_A_EHSS_6_final_grades_July_2022_FINAL_Grades.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: EHSS_Term_01_October_2019.csv, YearMonth: 2019-10, Matched TERMID: None
+File: 18_April_2022_Final_Grades_IEAP_3G_FINAL_Grades.csv, YearMonth: 2022-04, Matched TERMID: 2022-04-11
+--- Processing consolidated file: 18_April_2022_Final_Grades_IEAP_3G_FINAL_Grades.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 18_April_2022_Final_Grades_EHSS_01_FINAL_Grades.csv, YearMonth: 2022-04, Matched TERMID: 2022-04-11
+--- Processing consolidated file: 18_April_2022_Final_Grades_EHSS_01_FINAL_Grades.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 18_April_2022_Final_Grades_IEAP_1_Final_grade_18_April_2022_term.csv, YearMonth: 2022-04, Matched TERMID: 2022-04-11
+--- Processing consolidated file: 18_April_2022_Final_Grades_IEAP_1_Final_grade_18_April_2022_term.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 22_Aug_2022_B_term_grades_copy_EHSS_12_(grades_for_22_August_2022_B_term).csv, YearMonth: 2022-08, Matched TERMID: 2022-08-22
+--- Processing consolidated file: 22_Aug_2022_B_term_grades_copy_EHSS_12_(grades_for_22_August_2022_B_term).csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 18_April_2022_Final_Grades_GESL_PB2_FNAL_Grades.csv, YearMonth: 2022-04, Matched TERMID: 2022-04-11
+--- Processing consolidated file: 18_April_2022_Final_Grades_GESL_PB2_FNAL_Grades.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 6_November_2023_B_Term_Final_Grades_EHSS_09_CONV_231106E_T4BE_Grades_Grades.csv, YearMonth: 2023-11, Matched TERMID: 2023-11-06
+--- Processing consolidated file: 6_November_2023_B_Term_Final_Grades_EHSS_09_CONV_231106E_T4BE_Grades_Grades.csv ---
+    -- Generating SQL UPDATE statements --
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-9!$RE-03' (student 12249).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-9!$VT-1' (student 12249).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-9!$CONV-9' (student 12249).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-9!$CONV-9' (student 12716).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-9!$RE-03' (student 12716).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-9!$VT-1' (student 12716).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-9!$VT-1' (student 13317).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-9!$RE-03' (student 13317).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-9!$CONV-9' (student 13317).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-9!$CONV-9' (student 13318).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-9!$RE-03' (student 13318).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-9!$VT-1' (student 13318).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-9!$CONV-9' (student 13338).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-9!$VT-1' (student 13338).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-9!$RE-03' (student 13338).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-9!$CONV-9' (student 13595).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-9!$VT-1' (student 13595).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-9!$RE-03' (student 13595).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-9!$CONV-9' (student 13944).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-9!$RE-03' (student 13944).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-9!$VT-1' (student 13944).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-9!$CONV-9' (student 14036).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-9!$RE-03' (student 14036).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-9!$VT-1' (student 14036).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-9!$RE-03' (student 14329).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-9!$VT-1' (student 14329).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-9!$CONV-9' (student 14329).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-9!$RE-03' (student 14394).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-9!$VT-1' (student 14394).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-9!$CONV-9' (student 14394).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-9!$CONV-9' (student 14476).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-9!$VT-1' (student 14476).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-9!$RE-03' (student 14476).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-9!$CONV-9' (student 14783).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-9!$RE-03' (student 14783).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-9!$VT-1' (student 14783).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-9!$RE-03' (student 14824).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-9!$VT-1' (student 14824).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-9!$CONV-9' (student 14824).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-9!$CONV-9' (student 14825).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-9!$VT-1' (student 14825).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-9!$RE-03' (student 14825).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-9!$RE-03' (student 14831).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-9!$VT-1' (student 14831).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-9!$CONV-9' (student 14831).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-9!$VT-1' (student 15866).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-9!$RE-03' (student 15866).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-9!$CONV-9' (student 15866).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-9!$VT-1' (student 15878).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-9!$RE-03' (student 15878).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-9!$CONV-9' (student 15878).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-9!$CONV-9' (student 16052).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-9!$RE-03' (student 16052).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-9!$VT-1' (student 16052).
+--------------------------------------------------
+File: 28_June_2021_Grades_copy_EHSS_04_final_28_06_21.csv, YearMonth: 2021-06, Matched TERMID: 2021-06-28
+--- Processing consolidated file: 28_June_2021_Grades_copy_EHSS_04_final_28_06_21.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: IFL_July_2022_term_A_IEAP_2_final_grades_July_2022_FINAL_Grades.csv, YearMonth: 2022-07, Matched TERMID: 2022-07-18
+--- Processing consolidated file: IFL_July_2022_term_A_IEAP_2_final_grades_July_2022_FINAL_Grades.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: IFL_July_2022_term_A_EHSS_3_final_grades_July_2022_FINAL_Grades.csv, YearMonth: 2022-07, Matched TERMID: 2022-07-18
+--- Processing consolidated file: IFL_July_2022_term_A_EHSS_3_final_grades_July_2022_FINAL_Grades.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 18_April_2022_Final_Grades_EHSS_07_Final_Grades_18_April_2022.csv, YearMonth: 2022-04, Matched TERMID: 2022-04-11
+--- Processing consolidated file: 18_April_2022_Final_Grades_EHSS_07_Final_Grades_18_April_2022.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 19_April_2023_A_term_Final_Grades_EHSS_08B_COMP_2023T3E_Grades_S2.csv, YearMonth: 2023-04, Matched TERMID: 2023-04-17
+--- Processing consolidated file: 19_April_2023_A_term_Final_Grades_EHSS_08B_COMP_2023T3E_Grades_S2.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 18_April_2022_Final_Grades_EHSS_04_Final_Grades.csv, YearMonth: 2022-04, Matched TERMID: 2022-04-11
+--- Processing consolidated file: 18_April_2022_Final_Grades_EHSS_04_Final_Grades.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 22_Aug_2022_B_term_grades_copy_IEAP_3_(August_22_B_term_final_grades).csv, YearMonth: 2022-08, Matched TERMID: 2022-08-22
+--- Processing consolidated file: 22_Aug_2022_B_term_grades_copy_IEAP_3_(August_22_B_term_final_grades).csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 18_April_2022_Final_Grades_EHSS_01_FINAL_Grades_18_April_2022.csv, YearMonth: 2022-04, Matched TERMID: 2022-04-11
+--- Processing consolidated file: 18_April_2022_Final_Grades_EHSS_01_FINAL_Grades_18_April_2022.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 18_April_2022_Final_Grades_EHSS_12_Final_Grades_18_April_2022.csv, YearMonth: 2022-04, Matched TERMID: 2022-04-11
+--- Processing consolidated file: 18_April_2022_Final_Grades_EHSS_12_Final_Grades_18_April_2022.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 28_June_2021_Grades_copy_EHSS_02_final_28_06_21.csv, YearMonth: 2021-06, Matched TERMID: 2021-06-28
+--- Processing consolidated file: 28_June_2021_Grades_copy_EHSS_02_final_28_06_21.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 23_May_2022_Final_Grades_EHSS_03_FINALGrades_EHSS_3.csv, YearMonth: 2022-05, Matched TERMID: 2022-05-23
+--- Processing consolidated file: 23_May_2022_Final_Grades_EHSS_03_FINALGrades_EHSS_3.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: TO_SORT_IFL_Grade_Oct_17_2022_EHSS_09_Final_Grades_17_Oct_2022_Grades.csv, YearMonth: 2022-10, Matched TERMID: 2022-10-17
+--- Processing consolidated file: TO_SORT_IFL_Grade_Oct_17_2022_EHSS_09_Final_Grades_17_Oct_2022_Grades.csv ---
+    -- Generating SQL UPDATE statements --
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$HCOMP-9' (student 10784).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$RE-03' (student 10784).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$VT-1' (student 10784).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$VT-1' (student 10904).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$RE-03' (student 10904).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$HCOMP-9' (student 10904).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$HCOMP-9' (student 11321).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$RE-03' (student 11321).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$VT-1' (student 11321).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$RE-03' (student 11685).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$HCOMP-9' (student 11685).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$VT-1' (student 11685).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$HCOMP-9' (student 11763).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$RE-03' (student 11763).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$VT-1' (student 11763).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$VT-1' (student 12059).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$RE-03' (student 12059).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$HCOMP-9' (student 12059).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$HCOMP-9' (student 12276).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$RE-03' (student 12276).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$VT-1' (student 12276).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$HCOMP-9' (student 12778).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$RE-03' (student 12778).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$VT-1' (student 12778).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$RE-03' (student 12828).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$HCOMP-9' (student 12828).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$VT-1' (student 12828).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$RE-03' (student 13126).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$VT-1' (student 13126).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$HCOMP-9' (student 13126).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$HCOMP-9' (student 13132).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$RE-03' (student 13132).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$VT-1' (student 13132).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$HCOMP-9' (student 13260).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$RE-03' (student 13260).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$VT-1' (student 13260).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$VT-1' (student 13297).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$HCOMP-9' (student 13297).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$RE-03' (student 13297).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$HCOMP-9' (student 13320).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$RE-03' (student 13320).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$VT-1' (student 13320).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$HCOMP-9' (student 13350).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$RE-03' (student 13350).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$VT-1' (student 13350).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$RE-03' (student 13610).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$HCOMP-9' (student 13610).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$VT-1' (student 13610).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$VT-1' (student 13748).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$HCOMP-9' (student 13748).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$RE-03' (student 13748).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$RE-03' (student 13972).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$HCOMP-9' (student 13972).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$VT-1' (student 13972).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$VT-1' (student 14078).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$HCOMP-9' (student 14078).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$RE-03' (student 14078).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$RE-03' (student 14084).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$HCOMP-9' (student 14084).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$VT-1' (student 14084).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$VT-1' (student 14176).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$RE-03' (student 14176).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$HCOMP-9' (student 14176).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$HCOMP-9' (student 14469).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$RE-03' (student 14469).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$VT-1' (student 14469).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$VT-1' (student 14513).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$HCOMP-9' (student 14513).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$RE-03' (student 14513).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$HCOMP-9' (student 14755).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$RE-03' (student 14755).
+    WARNING: No matching grade column found for classid '2022AT3E!$688!$E!$EHSS-9!$VT-1' (student 14755).
+--------------------------------------------------
+File: 22_Aug_2022_B_term_grades_copy_EHSS_03_(22_August_2022_B_term_final_grades).csv, YearMonth: 2022-08, Matched TERMID: 2022-08-22
+--- Processing consolidated file: 22_Aug_2022_B_term_grades_copy_EHSS_03_(22_August_2022_B_term_final_grades).csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 23_May_2022_Final_Grades_PREB2_FINAL_Grades_Pre_B2.csv, YearMonth: 2022-05, Matched TERMID: 2022-05-23
+--- Processing consolidated file: 23_May_2022_Final_Grades_PREB2_FINAL_Grades_Pre_B2.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: IFL_July_2022_term_A_EHSS_2_final_grades_July_2022_FINAL_Grades.csv, YearMonth: 2022-07, Matched TERMID: 2022-07-18
+--- Processing consolidated file: IFL_July_2022_term_A_EHSS_2_final_grades_July_2022_FINAL_Grades.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: TO_SORT_IFL_July_2022_term_A_2_EHSS_11_FINAL_Grades.csv, YearMonth: 2022-07, Matched TERMID: 2022-07-18
+--- Processing consolidated file: TO_SORT_IFL_July_2022_term_A_2_EHSS_11_FINAL_Grades.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 18_April_2022_Final_Grades_EHSS_10_Final_Grades.csv, YearMonth: 2022-04, Matched TERMID: 2022-04-11
+--- Processing consolidated file: 18_April_2022_Final_Grades_EHSS_10_Final_Grades.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: IFL_July_2022_term_A_IEAP_3_final_grades_July_2022_FINAL_Grades.csv, YearMonth: 2022-07, Matched TERMID: 2022-07-18
+--- Processing consolidated file: IFL_July_2022_term_A_IEAP_3_final_grades_July_2022_FINAL_Grades.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 28_June_2021_Grades_copy_IEAP_4_final_28_06_21.csv, YearMonth: 2021-06, Matched TERMID: 2021-06-28
+--- Processing consolidated file: 28_June_2021_Grades_copy_IEAP_4_final_28_06_21.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 15_May_2023_B_term_Final_Grades_copy_EHSS_07_CONV_2023T4E_Grades_Grades.csv, YearMonth: 2023-05, Matched TERMID: 2023-05-15
+--- Processing consolidated file: 15_May_2023_B_term_Final_Grades_copy_EHSS_07_CONV_2023T4E_Grades_Grades.csv ---
+    -- Generating SQL UPDATE statements --
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$RE-02' (student 10205).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$V-4A' (student 10205).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$CS-EHSS' (student 10205).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$V-4A' (student 12249).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$RE-02' (student 12249).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$CS-EHSS' (student 12249).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$V-4A' (student 12716).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$RE-02' (student 12716).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$CS-EHSS' (student 12716).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$CS-EHSS' (student 13255).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$V-4A' (student 13255).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$RE-02' (student 13255).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$CS-EHSS' (student 13265).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$V-4A' (student 13265).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$RE-02' (student 13265).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$V-4A' (student 13317).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$RE-02' (student 13317).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$CS-EHSS' (student 13317).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$CS-EHSS' (student 13318).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$RE-02' (student 13318).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$V-4A' (student 13318).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$CS-EHSS' (student 13338).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$RE-02' (student 13338).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$V-4A' (student 13338).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$CS-EHSS' (student 13595).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$V-4A' (student 13595).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$RE-02' (student 13595).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$CS-EHSS' (student 13604).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$V-4A' (student 13604).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$RE-02' (student 13604).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$RE-02' (student 13939).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$V-4A' (student 13939).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$CS-EHSS' (student 13939).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$RE-02' (student 13944).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$V-4A' (student 13944).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$CS-EHSS' (student 13944).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$CS-EHSS' (student 14026).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$RE-02' (student 14026).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$V-4A' (student 14026).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$CS-EHSS' (student 14036).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$RE-02' (student 14036).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$V-4A' (student 14036).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$CS-EHSS' (student 14067).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$V-4A' (student 14067).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$RE-02' (student 14067).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$RE-02' (student 14329).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$V-4A' (student 14329).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$CS-EHSS' (student 14329).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$RE-02' (student 14361).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$V-4A' (student 14361).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$CS-EHSS' (student 14361).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$CS-EHSS' (student 14394).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$V-4A' (student 14394).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$RE-02' (student 14394).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$CS-EHSS' (student 14409).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$RE-02' (student 14409).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$V-4A' (student 14409).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$CS-EHSS' (student 14476).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$RE-02' (student 14476).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$V-4A' (student 14476).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$V-4A' (student 14783).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$RE-02' (student 14783).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$CS-EHSS' (student 14783).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$RE-02' (student 14789).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$V-4A' (student 14789).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$CS-EHSS' (student 14789).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$CS-EHSS' (student 14824).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$RE-02' (student 14824).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$V-4A' (student 14824).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$CS-EHSS' (student 14825).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$V-4A' (student 14825).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$RE-02' (student 14825).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$CS-EHSS' (student 14831).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$RE-02' (student 14831).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-7!$V-4A' (student 14831).
+--------------------------------------------------
+File: 23_May_2022_Final_Grades_EHSS_04_FINAL_Grades_EHSS_4.csv, YearMonth: 2022-05, Matched TERMID: 2022-05-23
+--- Processing consolidated file: 23_May_2022_Final_Grades_EHSS_04_FINAL_Grades_EHSS_4.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: IFL_July_2022_term_A_IEAP_1_final_grades_July_2022_FINAL_Grades.csv, YearMonth: 2022-07, Matched TERMID: 2022-07-18
+--- Processing consolidated file: IFL_July_2022_term_A_IEAP_1_final_grades_July_2022_FINAL_Grades.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 22_Aug_2022_B_term_grades_copy_EHSS_04_(22_August_B_term_final_grades).csv, YearMonth: 2022-08, Matched TERMID: 2022-08-22
+--- Processing consolidated file: 22_Aug_2022_B_term_grades_copy_EHSS_04_(22_August_B_term_final_grades).csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 18_April_2022_Final_Grades_IEAP_1G_FINAL_Grades.csv, YearMonth: 2022-04, Matched TERMID: 2022-04-11
+--- Processing consolidated file: 18_April_2022_Final_Grades_IEAP_1G_FINAL_Grades.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: IFL_July_2022_term_A_IEAP_4_July_2022_A_term_final_grades_FINAL_Grades.csv, YearMonth: 2022-07, Matched TERMID: 2022-07-18
+--- Processing consolidated file: IFL_July_2022_term_A_IEAP_4_July_2022_A_term_final_grades_FINAL_Grades.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 28_June_2021_Grades_copy_EHSS_01_final_28_06_21.csv, YearMonth: 2021-06, Matched TERMID: 2021-06-28
+--- Processing consolidated file: 28_June_2021_Grades_copy_EHSS_01_final_28_06_21.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 28_June_2021_Grades_copy_EHSS_11_final_28_06_21.csv, YearMonth: 2021-06, Matched TERMID: 2021-06-28
+--- Processing consolidated file: 28_June_2021_Grades_copy_EHSS_11_final_28_06_21.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 23_May_2022_Final_Grades_IEAP_2_FINAL_Grades_IEAP_2.csv, YearMonth: 2022-05, Matched TERMID: 2022-05-23
+--- Processing consolidated file: 23_May_2022_Final_Grades_IEAP_2_FINAL_Grades_IEAP_2.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 23_May_2022_Final_Grades_IEAP_Beginner_FINAL_Grades_Beginner.csv, YearMonth: 2022-05, Matched TERMID: 2022-05-23
+--- Processing consolidated file: 23_May_2022_Final_Grades_IEAP_Beginner_FINAL_Grades_Beginner.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 28_June_2021_Grades_copy_IEAP3_final_28_06_21.csv, YearMonth: 2021-06, Matched TERMID: 2021-06-28
+--- Processing consolidated file: 28_June_2021_Grades_copy_IEAP3_final_28_06_21.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 18_April_2022_Final_Grades_EHSS_08_Final_Grades_18_April_2022.csv, YearMonth: 2022-04, Matched TERMID: 2022-04-11
+--- Processing consolidated file: 18_April_2022_Final_Grades_EHSS_08_Final_Grades_18_April_2022.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 18_April_2022_Final_Grades_EHSS_02_final_grades_18_April_2022.csv, YearMonth: 2022-04, Matched TERMID: 2022-04-11
+--- Processing consolidated file: 18_April_2022_Final_Grades_EHSS_02_final_grades_18_April_2022.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 15_May_2023_B_term_Final_Grades_copy_EHSS_08_CONV_2023T4E_Grades_Grades.csv, YearMonth: 2023-05, Matched TERMID: 2023-05-15
+--- Processing consolidated file: 15_May_2023_B_term_Final_Grades_copy_EHSS_08_CONV_2023T4E_Grades_Grades.csv ---
+    -- Generating SQL UPDATE statements --
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-8!$CS-EHSS' (student 13262).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-8!$RE-02' (student 13262).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-8!$V-4B' (student 13262).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-8!$V-4B' (student 13263).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-8!$RE-02' (student 13263).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-8!$CS-EHSS' (student 13263).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-8!$V-4B' (student 13597).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-8!$CS-EHSS' (student 13597).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-8!$RE-02' (student 13597).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-8!$RE-02' (student 13608).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-8!$CS-EHSS' (student 13608).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-8!$V-4B' (student 13608).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-8!$V-4B' (student 14085).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-8!$CS-EHSS' (student 14085).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-8!$RE-02' (student 14085).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-8!$V-4B' (student 14343).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-8!$RE-02' (student 14343).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-8!$CS-EHSS' (student 14343).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-8!$CS-EHSS' (student 14373).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-8!$RE-02' (student 14373).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-8!$V-4B' (student 14373).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-8!$V-4B' (student 14382).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-8!$RE-02' (student 14382).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-8!$CS-EHSS' (student 14382).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-8!$CS-EHSS' (student 14616).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-8!$RE-02' (student 14616).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-8!$V-4B' (student 14616).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-8!$V-4B' (student 14830).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-8!$RE-02' (student 14830).
+    WARNING: No matching grade column found for classid '2023T4E!$688!$E!$EHSS-8!$CS-EHSS' (student 14830).
+--------------------------------------------------
+File: GESL_Term_01_July_01_October_2019_copy.csv, YearMonth: 2019-10, Matched TERMID: None
+File: 18_April_2022_Final_Grades_EHSS_07_Final_Grades.csv, YearMonth: 2022-04, Matched TERMID: 2022-04-11
+--- Processing consolidated file: 18_April_2022_Final_Grades_EHSS_07_Final_Grades.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: IFL_July_2022_term_A_EHSS_PreB2_final_grades_July_2022_FINAL_Grades.csv, YearMonth: 2022-07, Matched TERMID: 2022-07-18
+--- Processing consolidated file: IFL_July_2022_term_A_EHSS_PreB2_final_grades_July_2022_FINAL_Grades.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 18_April_2022_Final_Grades_IEAP_4_Final_Grades_18_April_2022_term.csv, YearMonth: 2022-04, Matched TERMID: 2022-04-11
+--- Processing consolidated file: 18_April_2022_Final_Grades_IEAP_4_Final_Grades_18_April_2022_term.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 22_Aug_2022_B_term_grades_copy_Pre_B2_part_time_(22_Aug_2022_B_term_final_grades).csv, YearMonth: 2022-08, Matched TERMID: 2022-08-22
+--- Processing consolidated file: 22_Aug_2022_B_term_grades_copy_Pre_B2_part_time_(22_Aug_2022_B_term_final_grades).csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 18_April_2022_Final_Grades_IEAP_Pre_Beg_18_April_2022_final_results_FINAL_Grades.csv, YearMonth: 2022-04, Matched TERMID: 2022-04-11
+--- Processing consolidated file: 18_April_2022_Final_Grades_IEAP_Pre_Beg_18_April_2022_final_results_FINAL_Grades.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 28_June_2021_Grades_copy_EHSS_03_final_28_06_21.csv, YearMonth: 2021-06, Matched TERMID: 2021-06-28
+--- Processing consolidated file: 28_June_2021_Grades_copy_EHSS_03_final_28_06_21.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 23_May_2022_Final_Grades_EHSS_02_FINAL_Grades_EHSS_2.csv, YearMonth: 2022-05, Matched TERMID: 2022-05-23
+--- Processing consolidated file: 23_May_2022_Final_Grades_EHSS_02_FINAL_Grades_EHSS_2.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 03_April_2024_Final_Grades_A_Done_Complete_Chhouey.csv, YearMonth: 2024-04, Matched TERMID: 2024-04-03
+--- Processing consolidated file: 03_April_2024_Final_Grades_A_Done_Complete_Chhouey.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: IFL_July_2022_term_A_IEAP_Pre_B_July_2022_final_grades_FINAL_Grades.csv, YearMonth: 2022-07, Matched TERMID: 2022-07-18
+--- Processing consolidated file: IFL_July_2022_term_A_IEAP_Pre_B_July_2022_final_grades_FINAL_Grades.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 6_November_2023_B_Term_Final_Grades_EHSS_07_CONV_231106E_T4BE_Grades_Grades.csv, YearMonth: 2023-11, Matched TERMID: 2023-11-06
+--- Processing consolidated file: 6_November_2023_B_Term_Final_Grades_EHSS_07_CONV_231106E_T4BE_Grades_Grades.csv ---
+    -- Generating SQL UPDATE statements --
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$CONV-7' (student 12188).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$V-4A' (student 12188).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$RE-02' (student 12188).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$CONV-7' (student 13357).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$RE-02' (student 13357).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$V-4A' (student 13357).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$CONV-7' (student 13644).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$RE-02' (student 13644).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$V-4A' (student 13644).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$V-4A' (student 13645).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$RE-02' (student 13645).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$CONV-7' (student 13645).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$CONV-7' (student 13646).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$V-4A' (student 13646).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$RE-02' (student 13646).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$CONV-7' (student 13920).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$V-4A' (student 13920).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$RE-02' (student 13920).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$CONV-7' (student 13937).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$RE-02' (student 13937).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$V-4A' (student 13937).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$V-4A' (student 13953).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$RE-02' (student 13953).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$CONV-7' (student 13953).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$RE-02' (student 13957).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$V-4A' (student 13957).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$CONV-7' (student 13957).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$CONV-7' (student 13959).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$V-4A' (student 13959).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$RE-02' (student 13959).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$CONV-7' (student 13966).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$RE-02' (student 13966).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$V-4A' (student 13966).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$V-4A' (student 13971).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$RE-02' (student 13971).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$CONV-7' (student 13971).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$RE-02' (student 14039).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$V-4A' (student 14039).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$CONV-7' (student 14039).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$V-4A' (student 14056).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$RE-02' (student 14056).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$CONV-7' (student 14056).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$CONV-7' (student 14058).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$RE-02' (student 14058).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$V-4A' (student 14058).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$CONV-7' (student 14068).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$V-4A' (student 14068).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$RE-02' (student 14068).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$CONV-7' (student 14073).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$RE-02' (student 14073).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$V-4A' (student 14073).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$CONV-7' (student 14094).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$V-4A' (student 14094).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$RE-02' (student 14094).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$CONV-7' (student 14097).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$V-4A' (student 14097).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$RE-02' (student 14097).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$V-4A' (student 14358).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$RE-02' (student 14358).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$CONV-7' (student 14358).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$CONV-7' (student 14404).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$V-4A' (student 14404).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$RE-02' (student 14404).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$V-4A' (student 14645).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$RE-02' (student 14645).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$CONV-7' (student 14645).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$CONV-7' (student 14794).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$RE-02' (student 14794).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$V-4A' (student 14794).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$CONV-7' (student 15297).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$RE-02' (student 15297).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$V-4A' (student 15297).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$RE-02' (student 15681).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$V-4A' (student 15681).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$CONV-7' (student 15681).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$RE-02' (student 15855).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$V-4A' (student 15855).
+    WARNING: No matching grade column found for classid '231106E-T4BE!$688!$E!$EHSS-7!$CONV-7' (student 15855).
+--------------------------------------------------
+File: 28_June_2021_Grades_copy_GESL_PB2_final_28_06_21.csv, YearMonth: 2021-06, Matched TERMID: 2021-06-28
+--- Processing consolidated file: 28_June_2021_Grades_copy_GESL_PB2_final_28_06_21.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 18_April_2022_Final_Grades_EHSS_03_FINAL_Grades.csv, YearMonth: 2022-04, Matched TERMID: 2022-04-11
+--- Processing consolidated file: 18_April_2022_Final_Grades_EHSS_03_FINAL_Grades.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 23_May_2022_Final_Grades_EHSS_06_FINAL_Grades_EHSS_6.csv, YearMonth: 2022-05, Matched TERMID: 2022-05-23
+--- Processing consolidated file: 23_May_2022_Final_Grades_EHSS_06_FINAL_Grades_EHSS_6.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 19_April_2023_A_term_Final_Grades_EHSS_09B_COMP_2023T3E_Grades.csv, YearMonth: 2023-04, Matched TERMID: 2023-04-17
+--- Processing consolidated file: 19_April_2023_A_term_Final_Grades_EHSS_09B_COMP_2023T3E_Grades.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 18_April_2022_Final_Grades_IEAP_PG_FINAL_Grades_FINAL_Grades.csv, YearMonth: 2022-04, Matched TERMID: 2022-04-11
+--- Processing consolidated file: 18_April_2022_Final_Grades_IEAP_PG_FINAL_Grades_FINAL_Grades.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 18_April_2022_Final_Grades_EHSS_08_Final_Grades.csv, YearMonth: 2022-04, Matched TERMID: 2022-04-11
+--- Processing consolidated file: 18_April_2022_Final_Grades_EHSS_08_Final_Grades.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 18_April_2022_Final_Grades_EHSS_12_Final_Grades.csv, YearMonth: 2022-04, Matched TERMID: 2022-04-11
+--- Processing consolidated file: 18_April_2022_Final_Grades_EHSS_12_Final_Grades.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 23_May_2022_Final_Grades_EHSS_01_FINAL_Grades_EHSS_1.csv, YearMonth: 2022-05, Matched TERMID: 2022-05-23
+--- Processing consolidated file: 23_May_2022_Final_Grades_EHSS_01_FINAL_Grades_EHSS_1.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 28_June_2021_Grades_copy_IEAP_BEG_final_28_06_21.csv, YearMonth: 2021-06, Matched TERMID: 2021-06-28
+--- Processing consolidated file: 28_June_2021_Grades_copy_IEAP_BEG_final_28_06_21.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 28_June_2021_Grades_copy_i3_Suggestion1.csv, YearMonth: 2021-06, Matched TERMID: 2021-06-28
+--- Processing consolidated file: 28_June_2021_Grades_copy_i3_Suggestion1.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 19_April_2023_A_term_Final_Grades_EHSS_09A_COMP_2023T3E_Grades.csv, YearMonth: 2023-04, Matched TERMID: 2023-04-17
+--- Processing consolidated file: 19_April_2023_A_term_Final_Grades_EHSS_09A_COMP_2023T3E_Grades.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 18_April_2022_Final_Grades_EHSS_09_Final_Grades_18_April_2022.csv, YearMonth: 2022-04, Matched TERMID: 2022-04-11
+--- Processing consolidated file: 18_April_2022_Final_Grades_EHSS_09_Final_Grades_18_April_2022.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 28_June_2021_Grades_copy_i3_i3.csv, YearMonth: 2021-06, Matched TERMID: 2021-06-28
+--- Processing consolidated file: 28_June_2021_Grades_copy_i3_i3.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: IFL_November_2022_Final_Grades_EHSS_06_Final_Grades_EHSS_6_Result.csv, YearMonth: 2022-11, Matched TERMID: 2022-11-21
+--- Processing consolidated file: IFL_November_2022_Final_Grades_EHSS_06_Final_Grades_EHSS_6_Result.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: IFL_July_2022_term_A_EHSS_11_final_grades_July_2022_FINAL_Grades.csv, YearMonth: 2022-07, Matched TERMID: 2022-07-18
+--- Processing consolidated file: IFL_July_2022_term_A_EHSS_11_final_grades_July_2022_FINAL_Grades.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 18_April_2022_Final_Grades_EHSS_05_Final_Grades_18_April_2022.csv, YearMonth: 2022-04, Matched TERMID: 2022-04-11
+--- Processing consolidated file: 18_April_2022_Final_Grades_EHSS_05_Final_Grades_18_April_2022.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 28_June_2021_Grades_copy_EHSS_08_final_28_06_21.csv, YearMonth: 2021-06, Matched TERMID: 2021-06-28
+--- Processing consolidated file: 28_June_2021_Grades_copy_EHSS_08_final_28_06_21.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 22_Aug_2022_B_term_grades_copy_EHSS_1_(22_August_2022_final_grades).csv, YearMonth: 2022-08, Matched TERMID: 2022-08-22
+--- Processing consolidated file: 22_Aug_2022_B_term_grades_copy_EHSS_1_(22_August_2022_final_grades).csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 28_June_2021_Grades_copy_EHSS_05_final_28_06_21.csv, YearMonth: 2021-06, Matched TERMID: 2021-06-28
+--- Processing consolidated file: 28_June_2021_Grades_copy_EHSS_05_final_28_06_21.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: IFL_July_2022_term_A_EHSS_10_final_grades_July_2022_FINAL_Grades.csv, YearMonth: 2022-07, Matched TERMID: 2022-07-18
+--- Processing consolidated file: IFL_July_2022_term_A_EHSS_10_final_grades_July_2022_FINAL_Grades.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 22_Aug_2022_B_term_grades_copy_EHSS_07_(22_August_2022_final_grades).csv, YearMonth: 2022-08, Matched TERMID: 2022-08-22
+--- Processing consolidated file: 22_Aug_2022_B_term_grades_copy_EHSS_07_(22_August_2022_final_grades).csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 18_April_2022_Final_Grades_EHSS_10_Final_Grades_18_April_2022.csv, YearMonth: 2022-04, Matched TERMID: 2022-04-11
+--- Processing consolidated file: 18_April_2022_Final_Grades_EHSS_10_Final_Grades_18_April_2022.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 18_April_2022_Final_Grades_EHSS_06_Final_Grades.csv, YearMonth: 2022-04, Matched TERMID: 2022-04-11
+--- Processing consolidated file: 18_April_2022_Final_Grades_EHSS_06_Final_Grades.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 18_April_2022_Final_Grades_EHSS_03_FINAL_Grades_18_April_2022.csv, YearMonth: 2022-04, Matched TERMID: 2022-04-11
+--- Processing consolidated file: 18_April_2022_Final_Grades_EHSS_03_FINAL_Grades_18_April_2022.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 18_April_2022_Final_Grades_IEAP_BG_FINAL_Grades.csv, YearMonth: 2022-04, Matched TERMID: 2022-04-11
+--- Processing consolidated file: 18_April_2022_Final_Grades_IEAP_BG_FINAL_Grades.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: IEAP_Term_01_October_2019.csv, YearMonth: 2019-10, Matched TERMID: None
+File: 18_April_2022_Final_Grades_EHSS_02_FINAL_Grades.csv, YearMonth: 2022-04, Matched TERMID: 2022-04-11
+--- Processing consolidated file: 18_April_2022_Final_Grades_EHSS_02_FINAL_Grades.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 22_Aug_2022_B_term_grades_copy_EHSS_02_(22_Aug_B_term_final_grades).csv, YearMonth: 2022-08, Matched TERMID: 2022-08-22
+--- Processing consolidated file: 22_Aug_2022_B_term_grades_copy_EHSS_02_(22_Aug_B_term_final_grades).csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 28_June_2021_Grades_copy_EHSS_06_final_28_06_21.csv, YearMonth: 2021-06, Matched TERMID: 2021-06-28
+--- Processing consolidated file: 28_June_2021_Grades_copy_EHSS_06_final_28_06_21.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 22_Aug_2022_B_term_grades_copy_EHSS_05_(22_August_2022_final_grades).csv, YearMonth: 2022-08, Matched TERMID: 2022-08-22
+--- Processing consolidated file: 22_Aug_2022_B_term_grades_copy_EHSS_05_(22_August_2022_final_grades).csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 23_May_2022_Final_Grades_IEAP_1_FINAL_Grades_IEAP_1.csv, YearMonth: 2022-05, Matched TERMID: 2022-05-23
+--- Processing consolidated file: 23_May_2022_Final_Grades_IEAP_1_FINAL_Grades_IEAP_1.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: Pre_B_Term_01_October_2019_Sheet2.csv, YearMonth: 2019-10, Matched TERMID: None
+File: 18_April_2022_Final_Grades_GESL_PB2_FNAL_Grades_18_April_2022.csv, YearMonth: 2022-04, Matched TERMID: 2022-04-11
+--- Processing consolidated file: 18_April_2022_Final_Grades_GESL_PB2_FNAL_Grades_18_April_2022.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 18_April_2022_Final_Grades_EHSS_09_Final_Grades.csv, YearMonth: 2022-04, Matched TERMID: 2022-04-11
+--- Processing consolidated file: 18_April_2022_Final_Grades_EHSS_09_Final_Grades.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
+File: 28_June_2021_Grades_copy_IEAP_PRE_final_28_06_21.csv, YearMonth: 2021-06, Matched TERMID: 2021-06-28
+--- Processing consolidated file: 28_June_2021_Grades_copy_IEAP_PRE_final_28_06_21.csv ---
+    SKIPPING: File does not contain 'ID number' column.
+--------------------------------------------------
